@@ -1,0 +1,1001 @@
+order_id,customer_id,restaurant_name,food_category,order_date,delivery_time_minutes,order_status,payment_method,order_amount,delivery_fee,rider_id,city
+1,1102,Chowking,Dessert,2026-04-01 00:00:00,27,Delivered,GCash,990.78,58.58,96,Laguna
+2,1435,Chowking,Dessert,2026-04-01 01:00:00,83,Late,Card,127.02,24.58,15,Cavite
+3,1860,Jollibee,Dessert,2026-04-01 02:00:00,29,Late,Card,500.08,33.97,36,Pasig
+4,1270,Jollibee,Filipino,2026-04-01 03:00:00,57,Late,Cash,554.16,76.59,63,Manila
+5,1106,McDo,Filipino,2026-04-01 04:00:00,27,Delivered,GCash,205.55,76.94,69,Laguna
+6,1071,Jollibee,Filipino,2026-04-01 05:00:00,44,Cancelled,GCash,252.16,91.87,86,Laguna
+7,1700,KFC,Filipino,2026-04-01 06:00:00,85,Cancelled,GCash,416.62,66.61,80,Pasig
+8,1020,Chowking,Chinese,2026-04-01 07:00:00,69,Delivered,Card,785.51,29.93,41,Cavite
+9,1614,McDo,Chinese,2026-04-01 08:00:00,86,Late,GCash,556.37,29.71,74,Laguna
+10,1121,Jollibee,Chinese,2026-04-01 09:00:00,68,Cancelled,Card,674.11,77.69,24,Cavite
+11,1466,KFC,Fast Food,2026-04-01 10:00:00,55,Late,GCash,986.66,34.7,82,Cavite
+12,1214,KFC,Dessert,2026-04-01 11:00:00,87,Delivered,GCash,791.2,46.27,49,Pasig
+13,1330,Jollibee,Filipino,2026-04-01 12:00:00,60,Late,Cash,490.93,58.98,18,Laguna
+14,1458,Chowking,Filipino,2026-04-01 13:00:00,81,Cancelled,GCash,501.8,21.98,7,Cavite
+15,1087,Jollibee,Chinese,2026-04-01 14:00:00,29,Cancelled,GCash,656.89,39.91,4,Cavite
+16,1372,McDo,Filipino,2026-04-01 15:00:00,40,Late,Cash,698.83,52.63,90,Pasig
+17,1099,Jollibee,Filipino,2026-04-01 16:00:00,55,Delivered,Card,550.64,42.37,69,Pasig
+18,1871,KFC,Dessert,2026-04-01 17:00:00,31,Late,Card,680.38,30.91,60,Cavite
+19,1663,Jollibee,Chinese,2026-04-01 18:00:00,21,Delivered,GCash,121.18,78.24,55,Pasig
+20,1130,Chowking,Dessert,2026-04-01 19:00:00,32,Late,Card,486.66,85.05,16,Cavite
+21,1661,Mang Inasal,Fast Food,2026-04-01 20:00:00,72,Cancelled,GCash,351.04,40.6,99,Laguna
+22,1308,Jollibee,Fast Food,2026-04-01 21:00:00,51,Delivered,Cash,216.26,81.95,90,Manila
+23,1769,Chowking,Fast Food,2026-04-01 22:00:00,35,Delivered,Cash,189.59,50.84,82,Pasig
+24,1343,Chowking,Chinese,2026-04-01 23:00:00,51,Delivered,GCash,642.87,60.53,29,Manila
+25,1491,KFC,Filipino,2026-04-02 00:00:00,51,Cancelled,Cash,571.24,88.48,23,Cavite
+26,1413,Chowking,Chinese,2026-04-02 01:00:00,30,Late,Cash,328.23,80.0,14,Cavite
+27,1805,Chowking,Chinese,2026-04-02 02:00:00,29,Cancelled,GCash,523.86,84.41,79,Cavite
+28,1385,Chowking,Filipino,2026-04-02 03:00:00,34,Delivered,GCash,543.01,30.95,49,Manila
+29,1191,Chowking,Dessert,2026-04-02 04:00:00,36,Late,Cash,275.51,25.58,33,Cavite
+30,1955,McDo,Fast Food,2026-04-02 05:00:00,59,Cancelled,Card,686.88,91.47,25,Pasig
+31,1276,McDo,Dessert,2026-04-02 06:00:00,37,Delivered,Card,802.83,51.03,21,Laguna
+32,1160,KFC,Fast Food,2026-04-02 07:00:00,74,Delivered,GCash,812.32,43.03,17,Laguna
+33,1459,Jollibee,Chinese,2026-04-02 08:00:00,44,Cancelled,GCash,642.22,77.98,23,Pasig
+34,1313,Chowking,Fast Food,2026-04-02 09:00:00,78,Cancelled,Card,560.47,86.91,57,Laguna
+35,1021,Jollibee,Chinese,2026-04-02 10:00:00,41,Cancelled,Cash,154.91,89.0,81,Manila
+36,1252,Jollibee,Dessert,2026-04-02 11:00:00,49,Delivered,Card,359.05,45.28,58,Cavite
+37,1747,KFC,Chinese,2026-04-02 12:00:00,63,Cancelled,Card,183.94,88.18,14,Cavite
+38,1856,Chowking,Dessert,2026-04-02 13:00:00,51,Delivered,Card,967.44,23.27,93,Cavite
+39,1560,Chowking,Filipino,2026-04-02 14:00:00,70,Cancelled,Card,221.57,23.97,20,Manila
+40,1474,Mang Inasal,Filipino,2026-04-02 15:00:00,65,Delivered,GCash,236.6,69.88,30,Manila
+41,1058,Jollibee,Filipino,2026-04-02 16:00:00,40,Delivered,GCash,900.62,25.05,19,Manila
+42,1510,Jollibee,Chinese,2026-04-02 17:00:00,51,Late,Cash,949.54,45.97,53,Pasig
+43,1681,McDo,Filipino,2026-04-02 18:00:00,58,Cancelled,Cash,789.25,73.82,56,Manila
+44,1475,Mang Inasal,Fast Food,2026-04-02 19:00:00,31,Cancelled,Cash,104.86,46.98,77,Laguna
+45,1699,McDo,Dessert,2026-04-02 20:00:00,66,Delivered,Cash,101.21,34.37,82,Pasig
+46,1975,McDo,Dessert,2026-04-02 21:00:00,37,Delivered,Card,440.29,42.51,23,Pasig
+47,1782,McDo,Fast Food,2026-04-02 22:00:00,40,Delivered,GCash,229.06,56.61,62,Pasig
+48,1189,KFC,Chinese,2026-04-02 23:00:00,32,Late,GCash,116.55,58.03,33,Manila
+49,1957,KFC,Chinese,2026-04-03 00:00:00,40,Late,Cash,517.66,82.64,18,Pasig
+50,1686,McDo,Dessert,2026-04-03 01:00:00,27,Delivered,Cash,948.76,80.01,73,Manila
+51,1957,Mang Inasal,Filipino,2026-04-03 02:00:00,65,Cancelled,Card,391.44,56.55,33,Manila
+52,1562,Jollibee,Chinese,2026-04-03 03:00:00,26,Cancelled,Card,695.03,87.65,32,Pasig
+53,1875,Mang Inasal,Chinese,2026-04-03 04:00:00,42,Late,Cash,687.01,29.14,61,Cavite
+54,1566,Chowking,Fast Food,2026-04-03 05:00:00,41,Late,GCash,325.97,40.43,54,Cavite
+55,1243,KFC,Fast Food,2026-04-03 06:00:00,41,Delivered,GCash,685.38,86.24,17,Pasig
+56,1831,Jollibee,Filipino,2026-04-03 07:00:00,48,Cancelled,GCash,291.1,50.24,19,Cavite
+57,1504,Jollibee,Chinese,2026-04-03 08:00:00,32,Delivered,Cash,209.81,98.49,91,Laguna
+58,1130,Chowking,Chinese,2026-04-03 09:00:00,21,Late,GCash,731.24,57.3,70,Laguna
+59,1484,Chowking,Fast Food,2026-04-03 10:00:00,48,Cancelled,Card,202.1,83.35,99,Manila
+60,1818,McDo,Chinese,2026-04-03 11:00:00,71,Cancelled,Card,997.22,52.18,34,Cavite
+61,1646,KFC,Dessert,2026-04-03 12:00:00,46,Late,Cash,265.11,54.0,84,Laguna
+62,1020,KFC,Fast Food,2026-04-03 13:00:00,69,Delivered,Card,634.73,50.63,25,Pasig
+63,1840,Mang Inasal,Filipino,2026-04-03 14:00:00,42,Delivered,Cash,470.24,77.53,68,Cavite
+64,1166,McDo,Fast Food,2026-04-03 15:00:00,63,Cancelled,GCash,213.75,63.8,74,Laguna
+65,1273,McDo,Chinese,2026-04-03 16:00:00,41,Late,GCash,125.06,95.5,74,Laguna
+66,1387,McDo,Filipino,2026-04-03 17:00:00,62,Cancelled,GCash,660.46,40.07,88,Pasig
+67,1600,McDo,Fast Food,2026-04-03 18:00:00,56,Late,Card,826.08,28.05,85,Manila
+68,1315,KFC,Dessert,2026-04-03 19:00:00,80,Delivered,Cash,857.81,51.46,11,Pasig
+69,1013,KFC,Dessert,2026-04-03 20:00:00,75,Late,GCash,534.44,69.34,91,Manila
+70,1241,McDo,Fast Food,2026-04-03 21:00:00,22,Delivered,Cash,799.71,88.86,16,Laguna
+71,1776,Mang Inasal,Dessert,2026-04-03 22:00:00,82,Late,GCash,705.56,47.7,90,Manila
+72,1345,Jollibee,Dessert,2026-04-03 23:00:00,38,Cancelled,Card,751.83,72.3,61,Laguna
+73,1564,Jollibee,Dessert,2026-04-04 00:00:00,42,Delivered,Card,543.34,48.02,94,Laguna
+74,1897,Mang Inasal,Filipino,2026-04-04 01:00:00,48,Cancelled,Cash,670.07,69.38,80,Cavite
+75,1339,McDo,Dessert,2026-04-04 02:00:00,49,Cancelled,Card,824.97,90.78,7,Manila
+76,1091,KFC,Dessert,2026-04-04 03:00:00,58,Delivered,Card,458.1,38.51,16,Manila
+77,1366,Jollibee,Dessert,2026-04-04 04:00:00,44,Delivered,Cash,825.38,52.34,99,Manila
+78,1955,Chowking,Filipino,2026-04-04 05:00:00,27,Cancelled,GCash,632.82,99.46,16,Pasig
+79,1454,Chowking,Fast Food,2026-04-04 06:00:00,77,Cancelled,Card,249.31,89.48,40,Cavite
+80,1427,Mang Inasal,Chinese,2026-04-04 07:00:00,35,Cancelled,Cash,122.22,65.17,12,Cavite
+81,1508,McDo,Dessert,2026-04-04 08:00:00,20,Cancelled,Card,426.48,61.33,35,Cavite
+82,1775,Jollibee,Fast Food,2026-04-04 09:00:00,24,Delivered,Card,592.03,42.77,21,Pasig
+83,1942,McDo,Dessert,2026-04-04 10:00:00,22,Delivered,Card,855.84,61.38,50,Manila
+84,1034,Jollibee,Filipino,2026-04-04 11:00:00,84,Cancelled,Card,214.74,87.85,43,Manila
+85,1205,Mang Inasal,Fast Food,2026-04-04 12:00:00,23,Late,Cash,820.19,74.81,17,Manila
+86,1080,Mang Inasal,Filipino,2026-04-04 13:00:00,83,Late,Cash,876.71,43.2,32,Cavite
+87,1931,Chowking,Dessert,2026-04-04 14:00:00,29,Delivered,Cash,235.62,36.12,41,Cavite
+88,1561,McDo,Dessert,2026-04-04 15:00:00,40,Cancelled,Card,866.43,41.22,6,Laguna
+89,1871,Chowking,Filipino,2026-04-04 16:00:00,65,Cancelled,Card,992.31,33.58,88,Pasig
+90,1387,McDo,Chinese,2026-04-04 17:00:00,46,Delivered,Card,754.15,27.65,27,Pasig
+91,1001,Chowking,Filipino,2026-04-04 18:00:00,85,Late,Cash,806.29,53.53,20,Cavite
+92,1389,KFC,Dessert,2026-04-04 19:00:00,60,Late,Card,994.97,29.06,25,Laguna
+93,1565,KFC,Filipino,2026-04-04 20:00:00,32,Late,GCash,644.93,33.75,66,Manila
+94,1105,KFC,Chinese,2026-04-04 21:00:00,28,Delivered,Card,377.1,63.79,9,Cavite
+95,1771,KFC,Filipino,2026-04-04 22:00:00,55,Late,GCash,853.78,33.17,92,Pasig
+96,1821,Jollibee,Chinese,2026-04-04 23:00:00,77,Delivered,Card,653.04,25.11,53,Pasig
+97,1476,KFC,Chinese,2026-04-05 00:00:00,73,Delivered,Cash,623.08,45.39,61,Pasig
+98,1702,Mang Inasal,Filipino,2026-04-05 01:00:00,31,Cancelled,Card,328.27,37.63,38,Manila
+99,1401,Mang Inasal,Filipino,2026-04-05 02:00:00,33,Late,GCash,780.7,61.22,3,Pasig
+100,1729,Jollibee,Fast Food,2026-04-05 03:00:00,53,Delivered,GCash,173.5,28.19,84,Manila
+101,1555,KFC,Dessert,2026-04-05 04:00:00,72,Late,Card,931.86,80.14,70,Manila
+102,1161,KFC,Chinese,2026-04-05 05:00:00,39,Late,GCash,393.24,92.5,97,Manila
+103,1201,KFC,Fast Food,2026-04-05 06:00:00,35,Cancelled,GCash,215.0,79.47,55,Cavite
+104,1957,Chowking,Filipino,2026-04-05 07:00:00,89,Late,Cash,498.13,62.63,1,Manila
+105,1995,McDo,Dessert,2026-04-05 08:00:00,75,Cancelled,Card,138.22,88.85,70,Laguna
+106,1269,Chowking,Fast Food,2026-04-05 09:00:00,77,Delivered,Card,716.16,75.59,45,Pasig
+107,1862,McDo,Chinese,2026-04-05 10:00:00,23,Late,Card,912.43,20.84,98,Cavite
+108,1815,KFC,Fast Food,2026-04-05 11:00:00,23,Delivered,GCash,853.54,51.53,47,Pasig
+109,1270,KFC,Chinese,2026-04-05 12:00:00,39,Late,Card,214.63,88.08,79,Manila
+110,1455,Chowking,Filipino,2026-04-05 13:00:00,29,Delivered,Card,213.64,47.67,26,Cavite
+111,1461,Chowking,Dessert,2026-04-05 14:00:00,43,Late,Cash,832.09,22.82,14,Laguna
+112,1726,McDo,Dessert,2026-04-05 15:00:00,45,Late,Cash,931.83,79.69,54,Manila
+113,1251,Mang Inasal,Dessert,2026-04-05 16:00:00,56,Late,Cash,514.6,84.16,71,Pasig
+114,1701,McDo,Filipino,2026-04-05 17:00:00,73,Late,GCash,549.07,32.85,46,Laguna
+115,1295,Chowking,Chinese,2026-04-05 18:00:00,40,Late,Card,386.44,62.99,31,Manila
+116,1724,Chowking,Filipino,2026-04-05 19:00:00,57,Late,Cash,904.84,35.36,88,Laguna
+117,1719,Jollibee,Dessert,2026-04-05 20:00:00,65,Late,Cash,680.41,77.54,59,Manila
+118,1748,Chowking,Filipino,2026-04-05 21:00:00,23,Late,Cash,359.43,41.72,95,Cavite
+119,1337,Jollibee,Filipino,2026-04-05 22:00:00,79,Late,Card,368.9,45.3,29,Manila
+120,1878,Mang Inasal,Filipino,2026-04-05 23:00:00,76,Delivered,Card,902.08,87.6,96,Cavite
+121,1052,McDo,Chinese,2026-04-06 00:00:00,64,Cancelled,Card,112.27,58.11,17,Manila
+122,1791,McDo,Fast Food,2026-04-06 01:00:00,39,Late,GCash,390.45,73.58,14,Manila
+123,1921,Jollibee,Fast Food,2026-04-06 02:00:00,36,Cancelled,GCash,598.92,52.19,36,Pasig
+124,1216,McDo,Filipino,2026-04-06 03:00:00,23,Late,Cash,233.4,43.84,58,Laguna
+125,1763,Chowking,Fast Food,2026-04-06 04:00:00,33,Late,Card,182.89,70.04,24,Laguna
+126,1187,KFC,Fast Food,2026-04-06 05:00:00,22,Delivered,Cash,833.75,32.39,63,Laguna
+127,1379,Jollibee,Filipino,2026-04-06 06:00:00,77,Delivered,Card,904.96,49.84,91,Manila
+128,1492,McDo,Filipino,2026-04-06 07:00:00,74,Cancelled,Card,841.25,36.72,25,Manila
+129,1040,Jollibee,Dessert,2026-04-06 08:00:00,23,Delivered,Card,908.91,75.66,59,Manila
+130,1156,Jollibee,Fast Food,2026-04-06 09:00:00,43,Delivered,GCash,597.8,95.54,32,Cavite
+131,1014,KFC,Chinese,2026-04-06 10:00:00,53,Cancelled,GCash,831.03,99.64,82,Cavite
+132,1812,Chowking,Filipino,2026-04-06 11:00:00,49,Delivered,Card,445.64,56.02,18,Pasig
+133,1064,Jollibee,Dessert,2026-04-06 12:00:00,38,Late,Cash,699.64,40.2,37,Manila
+134,1856,McDo,Chinese,2026-04-06 13:00:00,50,Cancelled,Card,989.95,55.43,26,Laguna
+135,1838,Mang Inasal,Fast Food,2026-04-06 14:00:00,79,Cancelled,Card,303.15,87.78,9,Laguna
+136,1520,Jollibee,Dessert,2026-04-06 15:00:00,79,Late,Cash,450.91,36.48,99,Pasig
+137,1343,Jollibee,Filipino,2026-04-06 16:00:00,38,Delivered,Card,532.04,96.17,64,Laguna
+138,1128,KFC,Chinese,2026-04-06 17:00:00,68,Cancelled,Cash,224.21,47.35,72,Pasig
+139,1647,Chowking,Filipino,2026-04-06 18:00:00,82,Cancelled,GCash,172.93,98.86,20,Manila
+140,1471,Mang Inasal,Fast Food,2026-04-06 19:00:00,41,Late,GCash,846.75,87.09,54,Laguna
+141,1062,McDo,Chinese,2026-04-06 20:00:00,43,Late,Cash,979.11,84.69,86,Manila
+142,1138,Mang Inasal,Fast Food,2026-04-06 21:00:00,49,Delivered,GCash,464.25,45.43,83,Cavite
+143,1498,McDo,Fast Food,2026-04-06 22:00:00,77,Cancelled,GCash,178.88,20.7,30,Laguna
+144,1592,Chowking,Dessert,2026-04-06 23:00:00,50,Delivered,Cash,159.23,50.57,53,Cavite
+145,1391,McDo,Filipino,2026-04-07 00:00:00,83,Delivered,GCash,902.19,44.14,92,Laguna
+146,1674,KFC,Chinese,2026-04-07 01:00:00,38,Late,Card,517.43,22.99,99,Manila
+147,1418,KFC,Fast Food,2026-04-07 02:00:00,67,Cancelled,Card,388.02,60.43,63,Pasig
+148,1288,KFC,Fast Food,2026-04-07 03:00:00,64,Cancelled,Cash,528.82,52.24,11,Manila
+149,1378,KFC,Chinese,2026-04-07 04:00:00,74,Cancelled,GCash,386.47,70.76,31,Manila
+150,1772,Mang Inasal,Fast Food,2026-04-07 05:00:00,74,Late,Card,540.13,69.69,49,Manila
+151,1489,Chowking,Dessert,2026-04-07 06:00:00,37,Late,Card,873.6,29.66,94,Laguna
+152,1230,McDo,Dessert,2026-04-07 07:00:00,82,Late,GCash,633.07,98.16,87,Pasig
+153,1040,McDo,Dessert,2026-04-07 08:00:00,66,Late,GCash,725.19,34.95,19,Cavite
+154,1027,KFC,Dessert,2026-04-07 09:00:00,76,Late,Card,428.2,55.62,12,Manila
+155,1134,KFC,Fast Food,2026-04-07 10:00:00,64,Cancelled,Card,764.66,59.05,15,Laguna
+156,1200,Jollibee,Chinese,2026-04-07 11:00:00,52,Delivered,Cash,699.96,85.05,31,Cavite
+157,1839,Chowking,Chinese,2026-04-07 12:00:00,36,Cancelled,Cash,207.61,27.94,43,Manila
+158,1779,Mang Inasal,Chinese,2026-04-07 13:00:00,89,Delivered,Card,615.38,54.29,37,Cavite
+159,1929,McDo,Chinese,2026-04-07 14:00:00,23,Late,Cash,331.07,70.28,79,Manila
+160,1032,Jollibee,Filipino,2026-04-07 15:00:00,39,Delivered,Card,823.69,37.21,29,Cavite
+161,1047,Jollibee,Chinese,2026-04-07 16:00:00,66,Cancelled,Card,483.34,70.2,26,Cavite
+162,1502,McDo,Filipino,2026-04-07 17:00:00,34,Cancelled,Cash,995.22,93.89,2,Pasig
+163,1406,Mang Inasal,Filipino,2026-04-07 18:00:00,89,Delivered,Cash,183.25,99.8,84,Pasig
+164,1573,Jollibee,Dessert,2026-04-07 19:00:00,66,Late,GCash,802.31,22.6,15,Manila
+165,1727,Jollibee,Filipino,2026-04-07 20:00:00,28,Late,GCash,706.33,38.85,4,Laguna
+166,1804,Chowking,Fast Food,2026-04-07 21:00:00,35,Cancelled,GCash,790.75,44.82,86,Pasig
+167,1098,Mang Inasal,Filipino,2026-04-07 22:00:00,88,Delivered,Card,376.78,51.93,50,Cavite
+168,1683,Jollibee,Dessert,2026-04-07 23:00:00,80,Late,Cash,542.85,39.38,38,Pasig
+169,1871,Mang Inasal,Filipino,2026-04-08 00:00:00,29,Late,Card,816.86,36.28,23,Pasig
+170,1725,McDo,Fast Food,2026-04-08 01:00:00,69,Cancelled,Cash,309.29,96.36,59,Manila
+171,1986,KFC,Fast Food,2026-04-08 02:00:00,22,Late,Card,303.43,93.48,90,Pasig
+172,1546,Jollibee,Fast Food,2026-04-08 03:00:00,89,Delivered,GCash,595.95,23.76,75,Pasig
+173,1960,Chowking,Dessert,2026-04-08 04:00:00,70,Cancelled,GCash,571.21,47.11,28,Cavite
+174,1738,McDo,Dessert,2026-04-08 05:00:00,38,Cancelled,GCash,354.04,52.41,66,Pasig
+175,1612,Mang Inasal,Chinese,2026-04-08 06:00:00,61,Delivered,Card,368.27,39.12,8,Cavite
+176,1942,McDo,Dessert,2026-04-08 07:00:00,54,Cancelled,Cash,350.06,70.31,29,Pasig
+177,1461,Jollibee,Fast Food,2026-04-08 08:00:00,65,Late,Cash,794.36,71.23,11,Pasig
+178,1642,Mang Inasal,Fast Food,2026-04-08 09:00:00,45,Late,GCash,686.71,88.04,18,Laguna
+179,1768,KFC,Dessert,2026-04-08 10:00:00,88,Delivered,GCash,849.18,79.27,55,Pasig
+180,1004,McDo,Filipino,2026-04-08 11:00:00,83,Late,GCash,977.93,63.41,50,Cavite
+181,1217,Jollibee,Dessert,2026-04-08 12:00:00,56,Delivered,GCash,526.75,72.29,14,Cavite
+182,1502,Chowking,Dessert,2026-04-08 13:00:00,68,Delivered,Cash,160.02,41.92,74,Manila
+183,1766,Mang Inasal,Fast Food,2026-04-08 14:00:00,40,Late,Card,143.28,67.44,99,Manila
+184,1397,McDo,Chinese,2026-04-08 15:00:00,83,Delivered,Card,366.1,59.14,9,Laguna
+185,1870,McDo,Fast Food,2026-04-08 16:00:00,24,Late,Card,939.29,30.67,99,Cavite
+186,1794,KFC,Chinese,2026-04-08 17:00:00,89,Cancelled,Card,570.89,39.4,11,Cavite
+187,1392,KFC,Fast Food,2026-04-08 18:00:00,23,Cancelled,GCash,344.61,43.34,63,Cavite
+188,1206,Chowking,Dessert,2026-04-08 19:00:00,58,Delivered,GCash,459.25,93.94,76,Laguna
+189,1014,Chowking,Fast Food,2026-04-08 20:00:00,54,Late,GCash,638.74,38.43,67,Cavite
+190,1857,Jollibee,Fast Food,2026-04-08 21:00:00,20,Late,Card,687.65,43.14,53,Manila
+191,1553,Jollibee,Fast Food,2026-04-08 22:00:00,43,Cancelled,GCash,238.53,49.55,39,Laguna
+192,1891,Chowking,Dessert,2026-04-08 23:00:00,76,Cancelled,GCash,979.33,73.1,78,Manila
+193,1460,Chowking,Dessert,2026-04-09 00:00:00,89,Late,Cash,590.3,29.46,56,Manila
+194,1690,Mang Inasal,Dessert,2026-04-09 01:00:00,60,Delivered,Cash,222.12,96.32,28,Laguna
+195,1574,KFC,Dessert,2026-04-09 02:00:00,73,Cancelled,GCash,904.27,89.25,75,Pasig
+196,1863,Jollibee,Chinese,2026-04-09 03:00:00,65,Delivered,Cash,167.17,66.18,39,Pasig
+197,1742,KFC,Chinese,2026-04-09 04:00:00,79,Delivered,Cash,916.96,73.92,25,Manila
+198,1240,KFC,Filipino,2026-04-09 05:00:00,79,Cancelled,GCash,996.91,21.33,21,Pasig
+199,1563,Chowking,Dessert,2026-04-09 06:00:00,76,Delivered,GCash,730.39,47.12,10,Cavite
+200,1095,Mang Inasal,Chinese,2026-04-09 07:00:00,50,Delivered,GCash,793.4,83.65,43,Laguna
+201,1899,McDo,Fast Food,2026-04-09 08:00:00,43,Late,GCash,403.57,26.2,15,Manila
+202,1733,Mang Inasal,Dessert,2026-04-09 09:00:00,55,Delivered,Card,947.42,42.59,83,Cavite
+203,1484,Mang Inasal,Filipino,2026-04-09 10:00:00,49,Late,Card,576.74,66.82,48,Pasig
+204,1406,KFC,Filipino,2026-04-09 11:00:00,43,Cancelled,GCash,759.15,40.51,86,Cavite
+205,1230,Mang Inasal,Filipino,2026-04-09 12:00:00,49,Cancelled,Cash,931.7,94.72,21,Pasig
+206,1748,Jollibee,Fast Food,2026-04-09 13:00:00,26,Late,GCash,977.66,30.48,60,Manila
+207,1654,KFC,Chinese,2026-04-09 14:00:00,54,Cancelled,GCash,849.88,83.79,96,Cavite
+208,1170,Jollibee,Fast Food,2026-04-09 15:00:00,74,Delivered,Cash,372.72,60.64,50,Laguna
+209,1540,McDo,Dessert,2026-04-09 16:00:00,33,Delivered,Card,969.89,80.03,23,Manila
+210,1035,KFC,Filipino,2026-04-09 17:00:00,29,Delivered,GCash,665.31,44.86,13,Cavite
+211,1524,McDo,Fast Food,2026-04-09 18:00:00,35,Cancelled,GCash,937.58,61.16,69,Cavite
+212,1159,KFC,Fast Food,2026-04-09 19:00:00,73,Delivered,Card,708.49,88.55,4,Pasig
+213,1838,Chowking,Chinese,2026-04-09 20:00:00,89,Cancelled,Card,376.52,57.35,92,Manila
+214,1698,Mang Inasal,Chinese,2026-04-09 21:00:00,63,Delivered,Cash,433.02,48.78,78,Manila
+215,1242,Chowking,Filipino,2026-04-09 22:00:00,64,Late,Card,595.42,62.89,72,Manila
+216,1085,McDo,Fast Food,2026-04-09 23:00:00,75,Cancelled,Card,811.01,77.39,9,Manila
+217,1795,Mang Inasal,Fast Food,2026-04-10 00:00:00,76,Cancelled,Card,386.18,55.49,35,Pasig
+218,1577,KFC,Chinese,2026-04-10 01:00:00,40,Delivered,Cash,621.76,95.11,21,Laguna
+219,1681,Mang Inasal,Fast Food,2026-04-10 02:00:00,87,Cancelled,Card,411.06,43.6,58,Manila
+220,1556,Jollibee,Fast Food,2026-04-10 03:00:00,69,Cancelled,Card,834.19,58.04,18,Pasig
+221,1573,Mang Inasal,Fast Food,2026-04-10 04:00:00,52,Late,Cash,520.06,80.55,97,Laguna
+222,1952,Jollibee,Chinese,2026-04-10 05:00:00,26,Late,Card,169.05,75.13,72,Laguna
+223,1645,Mang Inasal,Filipino,2026-04-10 06:00:00,89,Delivered,Card,249.45,89.09,81,Pasig
+224,1795,Jollibee,Dessert,2026-04-10 07:00:00,34,Late,Cash,154.99,99.74,43,Manila
+225,1027,McDo,Filipino,2026-04-10 08:00:00,51,Delivered,GCash,549.37,54.15,95,Laguna
+226,1619,Chowking,Dessert,2026-04-10 09:00:00,39,Delivered,Cash,195.7,28.89,98,Manila
+227,1555,KFC,Fast Food,2026-04-10 10:00:00,34,Delivered,Card,202.73,22.43,6,Manila
+228,1339,Mang Inasal,Filipino,2026-04-10 11:00:00,67,Cancelled,Card,946.94,78.15,86,Cavite
+229,1797,Chowking,Dessert,2026-04-10 12:00:00,40,Late,Card,885.39,89.92,78,Manila
+230,1957,KFC,Chinese,2026-04-10 13:00:00,61,Delivered,Cash,506.88,37.66,67,Cavite
+231,1330,KFC,Chinese,2026-04-10 14:00:00,45,Late,Card,987.22,32.68,12,Laguna
+232,1639,Jollibee,Filipino,2026-04-10 15:00:00,33,Delivered,Card,100.17,24.98,12,Pasig
+233,1505,McDo,Filipino,2026-04-10 16:00:00,76,Late,Cash,652.58,85.82,66,Cavite
+234,1347,McDo,Fast Food,2026-04-10 17:00:00,56,Late,GCash,654.79,44.91,2,Pasig
+235,1472,Chowking,Filipino,2026-04-10 18:00:00,77,Delivered,GCash,511.7,52.14,15,Laguna
+236,1230,McDo,Fast Food,2026-04-10 19:00:00,40,Cancelled,Card,457.25,60.22,23,Manila
+237,1189,Mang Inasal,Fast Food,2026-04-10 20:00:00,88,Late,Cash,509.84,87.16,29,Laguna
+238,1224,McDo,Chinese,2026-04-10 21:00:00,22,Cancelled,Card,473.46,72.07,81,Pasig
+239,1384,Chowking,Chinese,2026-04-10 22:00:00,56,Cancelled,Cash,757.44,69.21,96,Laguna
+240,1376,McDo,Dessert,2026-04-10 23:00:00,68,Delivered,Cash,221.82,34.05,7,Manila
+241,1282,Mang Inasal,Chinese,2026-04-11 00:00:00,38,Delivered,GCash,277.88,61.06,94,Laguna
+242,1957,Jollibee,Chinese,2026-04-11 01:00:00,31,Delivered,GCash,262.47,77.23,28,Manila
+243,1632,Chowking,Filipino,2026-04-11 02:00:00,80,Late,Cash,336.22,97.86,14,Cavite
+244,1627,Jollibee,Chinese,2026-04-11 03:00:00,60,Delivered,Card,572.73,36.11,44,Pasig
+245,1972,Jollibee,Dessert,2026-04-11 04:00:00,52,Delivered,GCash,200.09,20.76,30,Manila
+246,1744,Jollibee,Filipino,2026-04-11 05:00:00,69,Late,Card,881.35,26.02,81,Manila
+247,1258,KFC,Dessert,2026-04-11 06:00:00,87,Late,GCash,367.63,50.07,32,Laguna
+248,1358,KFC,Chinese,2026-04-11 07:00:00,52,Delivered,GCash,246.28,85.64,70,Cavite
+249,1709,Jollibee,Dessert,2026-04-11 08:00:00,43,Delivered,Card,708.06,20.57,88,Manila
+250,1455,Chowking,Filipino,2026-04-11 09:00:00,80,Delivered,GCash,134.28,56.54,6,Cavite
+251,1410,Mang Inasal,Fast Food,2026-04-11 10:00:00,80,Delivered,GCash,657.97,46.34,27,Cavite
+252,1648,Mang Inasal,Dessert,2026-04-11 11:00:00,47,Cancelled,Card,728.38,24.2,82,Laguna
+253,1317,McDo,Dessert,2026-04-11 12:00:00,77,Cancelled,GCash,293.42,56.02,88,Manila
+254,1676,Chowking,Filipino,2026-04-11 13:00:00,62,Delivered,GCash,137.77,40.38,24,Laguna
+255,1224,KFC,Filipino,2026-04-11 14:00:00,60,Cancelled,GCash,427.28,48.15,34,Pasig
+256,1818,Jollibee,Dessert,2026-04-11 15:00:00,58,Late,Card,188.73,76.45,40,Pasig
+257,1233,McDo,Chinese,2026-04-11 16:00:00,68,Cancelled,Cash,204.83,61.72,47,Manila
+258,1683,Mang Inasal,Dessert,2026-04-11 17:00:00,36,Cancelled,Card,328.84,29.97,79,Cavite
+259,1663,KFC,Filipino,2026-04-11 18:00:00,89,Delivered,Cash,365.92,96.91,75,Manila
+260,1974,KFC,Fast Food,2026-04-11 19:00:00,89,Cancelled,GCash,576.97,70.87,86,Manila
+261,1826,Jollibee,Fast Food,2026-04-11 20:00:00,84,Cancelled,Cash,710.55,81.27,24,Pasig
+262,1373,Mang Inasal,Chinese,2026-04-11 21:00:00,24,Cancelled,Card,633.49,26.34,65,Pasig
+263,1671,Chowking,Dessert,2026-04-11 22:00:00,21,Cancelled,Card,233.52,23.76,18,Cavite
+264,1607,KFC,Fast Food,2026-04-11 23:00:00,41,Late,GCash,254.88,21.56,44,Cavite
+265,1471,Jollibee,Dessert,2026-04-12 00:00:00,76,Delivered,Cash,890.89,35.1,76,Manila
+266,1232,Chowking,Filipino,2026-04-12 01:00:00,85,Delivered,GCash,602.52,53.15,57,Laguna
+267,1691,Mang Inasal,Fast Food,2026-04-12 02:00:00,35,Late,GCash,882.94,94.87,28,Manila
+268,1112,KFC,Chinese,2026-04-12 03:00:00,70,Cancelled,Card,434.39,56.56,71,Cavite
+269,1829,Chowking,Filipino,2026-04-12 04:00:00,58,Late,Cash,652.96,43.22,23,Laguna
+270,1496,Chowking,Chinese,2026-04-12 05:00:00,59,Cancelled,Cash,571.3,64.95,85,Pasig
+271,1441,Chowking,Filipino,2026-04-12 06:00:00,57,Late,Cash,387.21,28.95,34,Cavite
+272,1563,KFC,Fast Food,2026-04-12 07:00:00,79,Delivered,Cash,522.92,68.76,11,Cavite
+273,1267,KFC,Chinese,2026-04-12 08:00:00,78,Delivered,GCash,552.24,65.47,86,Laguna
+274,1509,McDo,Chinese,2026-04-12 09:00:00,29,Delivered,GCash,280.69,83.36,35,Cavite
+275,1806,Mang Inasal,Filipino,2026-04-12 10:00:00,83,Cancelled,Card,383.51,98.94,93,Cavite
+276,1385,Jollibee,Chinese,2026-04-12 11:00:00,82,Cancelled,GCash,812.27,40.07,42,Cavite
+277,1386,Chowking,Filipino,2026-04-12 12:00:00,68,Late,GCash,924.21,60.77,28,Cavite
+278,1112,McDo,Filipino,2026-04-12 13:00:00,83,Late,Card,423.81,92.71,82,Cavite
+279,1612,Jollibee,Filipino,2026-04-12 14:00:00,51,Delivered,Card,376.28,82.82,78,Cavite
+280,1624,McDo,Filipino,2026-04-12 15:00:00,26,Cancelled,Card,275.68,58.99,82,Cavite
+281,1951,KFC,Fast Food,2026-04-12 16:00:00,40,Late,GCash,710.64,95.63,92,Cavite
+282,1080,Chowking,Filipino,2026-04-12 17:00:00,39,Cancelled,GCash,390.79,24.58,24,Pasig
+283,1698,Jollibee,Dessert,2026-04-12 18:00:00,45,Cancelled,Card,988.97,94.48,8,Cavite
+284,1112,Jollibee,Chinese,2026-04-12 19:00:00,87,Delivered,Card,393.12,24.04,53,Pasig
+285,1001,Jollibee,Dessert,2026-04-12 20:00:00,34,Delivered,Card,454.72,63.78,72,Pasig
+286,1641,Jollibee,Fast Food,2026-04-12 21:00:00,33,Cancelled,GCash,643.0,91.24,4,Manila
+287,1219,Jollibee,Dessert,2026-04-12 22:00:00,46,Cancelled,GCash,821.52,41.02,91,Manila
+288,1565,McDo,Chinese,2026-04-12 23:00:00,59,Cancelled,Cash,522.57,57.78,5,Pasig
+289,1854,Chowking,Dessert,2026-04-13 00:00:00,77,Cancelled,GCash,480.39,45.95,97,Pasig
+290,1996,KFC,Fast Food,2026-04-13 01:00:00,47,Delivered,GCash,996.07,96.17,49,Cavite
+291,1735,KFC,Filipino,2026-04-13 02:00:00,45,Late,GCash,109.44,85.89,98,Manila
+292,1224,KFC,Dessert,2026-04-13 03:00:00,82,Delivered,Card,905.56,76.72,30,Laguna
+293,1384,KFC,Fast Food,2026-04-13 04:00:00,85,Late,GCash,234.23,67.01,72,Manila
+294,1402,McDo,Fast Food,2026-04-13 05:00:00,44,Cancelled,Card,807.33,85.65,63,Pasig
+295,1637,Mang Inasal,Chinese,2026-04-13 06:00:00,22,Late,Cash,656.14,51.38,47,Pasig
+296,1129,Chowking,Chinese,2026-04-13 07:00:00,63,Delivered,Cash,407.66,55.8,26,Cavite
+297,1052,Jollibee,Dessert,2026-04-13 08:00:00,61,Delivered,Card,886.49,78.4,57,Cavite
+298,1683,Mang Inasal,Filipino,2026-04-13 09:00:00,25,Cancelled,Card,111.62,48.62,37,Manila
+299,1729,KFC,Fast Food,2026-04-13 10:00:00,58,Delivered,Card,304.02,25.11,98,Cavite
+300,1671,Mang Inasal,Dessert,2026-04-13 11:00:00,71,Cancelled,GCash,610.2,25.95,7,Laguna
+301,1709,Chowking,Fast Food,2026-04-13 12:00:00,42,Delivered,Cash,416.39,29.23,40,Laguna
+302,1415,Jollibee,Fast Food,2026-04-13 13:00:00,69,Delivered,Card,649.34,89.57,92,Cavite
+303,1246,Jollibee,Filipino,2026-04-13 14:00:00,62,Cancelled,GCash,121.7,57.78,39,Laguna
+304,1835,Chowking,Filipino,2026-04-13 15:00:00,38,Late,Cash,204.81,77.03,62,Laguna
+305,1438,Chowking,Dessert,2026-04-13 16:00:00,88,Delivered,GCash,214.39,51.43,92,Manila
+306,1202,KFC,Filipino,2026-04-13 17:00:00,70,Late,Cash,270.36,40.7,78,Laguna
+307,1183,Jollibee,Filipino,2026-04-13 18:00:00,30,Delivered,GCash,513.4,47.78,53,Pasig
+308,1122,Mang Inasal,Dessert,2026-04-13 19:00:00,31,Delivered,Cash,776.92,83.53,4,Pasig
+309,1400,McDo,Filipino,2026-04-13 20:00:00,27,Delivered,Cash,914.98,70.02,82,Manila
+310,1766,McDo,Chinese,2026-04-13 21:00:00,43,Delivered,GCash,851.84,95.01,25,Cavite
+311,1293,Chowking,Fast Food,2026-04-13 22:00:00,60,Late,Card,277.2,74.38,7,Manila
+312,1279,KFC,Fast Food,2026-04-13 23:00:00,55,Late,Cash,497.04,65.61,28,Cavite
+313,1836,McDo,Fast Food,2026-04-14 00:00:00,74,Delivered,Card,279.47,68.82,69,Cavite
+314,1883,Jollibee,Fast Food,2026-04-14 01:00:00,28,Delivered,GCash,338.02,95.39,67,Cavite
+315,1609,Chowking,Dessert,2026-04-14 02:00:00,66,Late,Card,553.19,83.06,95,Cavite
+316,1197,Mang Inasal,Fast Food,2026-04-14 03:00:00,34,Cancelled,Card,161.3,21.92,20,Cavite
+317,1981,Chowking,Fast Food,2026-04-14 04:00:00,67,Cancelled,Card,296.36,62.73,83,Manila
+318,1906,Mang Inasal,Fast Food,2026-04-14 05:00:00,61,Late,Card,941.84,75.07,11,Cavite
+319,1510,Chowking,Fast Food,2026-04-14 06:00:00,79,Delivered,Card,519.5,79.9,67,Laguna
+320,1751,Chowking,Chinese,2026-04-14 07:00:00,89,Delivered,Cash,500.85,37.05,87,Laguna
+321,1143,Chowking,Fast Food,2026-04-14 08:00:00,31,Cancelled,Cash,113.11,89.37,7,Cavite
+322,1608,Mang Inasal,Chinese,2026-04-14 09:00:00,21,Cancelled,Cash,322.66,96.47,23,Laguna
+323,1200,Mang Inasal,Dessert,2026-04-14 10:00:00,26,Late,GCash,879.66,38.94,61,Pasig
+324,1123,Chowking,Filipino,2026-04-14 11:00:00,22,Cancelled,Card,248.17,90.61,71,Manila
+325,1186,McDo,Fast Food,2026-04-14 12:00:00,22,Late,Cash,473.61,27.76,34,Manila
+326,1325,KFC,Filipino,2026-04-14 13:00:00,46,Cancelled,GCash,112.9,24.46,19,Cavite
+327,1463,KFC,Filipino,2026-04-14 14:00:00,59,Cancelled,Cash,530.5,30.34,58,Cavite
+328,1348,KFC,Dessert,2026-04-14 15:00:00,52,Cancelled,Cash,118.92,24.62,9,Pasig
+329,1770,Mang Inasal,Filipino,2026-04-14 16:00:00,20,Delivered,Card,837.65,87.6,48,Cavite
+330,1659,Mang Inasal,Chinese,2026-04-14 17:00:00,27,Delivered,GCash,842.37,24.72,82,Laguna
+331,1763,McDo,Filipino,2026-04-14 18:00:00,51,Delivered,Card,808.97,41.73,41,Pasig
+332,1954,KFC,Filipino,2026-04-14 19:00:00,67,Cancelled,Card,355.03,28.3,48,Laguna
+333,1931,KFC,Filipino,2026-04-14 20:00:00,23,Late,Cash,853.51,43.63,45,Manila
+334,1402,Chowking,Fast Food,2026-04-14 21:00:00,89,Late,Card,588.7,27.24,25,Laguna
+335,1345,Mang Inasal,Fast Food,2026-04-14 22:00:00,38,Late,GCash,436.43,73.44,78,Manila
+336,1962,KFC,Chinese,2026-04-14 23:00:00,51,Late,Card,662.8,30.67,25,Laguna
+337,1510,McDo,Chinese,2026-04-15 00:00:00,28,Delivered,Card,111.11,88.15,19,Manila
+338,1146,McDo,Fast Food,2026-04-15 01:00:00,31,Delivered,Card,228.66,85.38,39,Cavite
+339,1147,KFC,Chinese,2026-04-15 02:00:00,30,Cancelled,Cash,768.06,21.09,79,Laguna
+340,1863,Mang Inasal,Fast Food,2026-04-15 03:00:00,65,Cancelled,GCash,319.75,91.66,80,Manila
+341,1710,McDo,Dessert,2026-04-15 04:00:00,35,Late,Cash,638.21,22.32,27,Laguna
+342,1819,Chowking,Filipino,2026-04-15 05:00:00,20,Delivered,Cash,446.59,39.17,74,Pasig
+343,1488,McDo,Filipino,2026-04-15 06:00:00,82,Late,Cash,869.33,22.59,63,Cavite
+344,1928,Jollibee,Chinese,2026-04-15 07:00:00,40,Cancelled,Cash,957.17,46.87,68,Manila
+345,1935,Jollibee,Fast Food,2026-04-15 08:00:00,49,Cancelled,Cash,895.21,61.11,19,Pasig
+346,1639,Mang Inasal,Fast Food,2026-04-15 09:00:00,32,Late,GCash,343.56,83.73,28,Laguna
+347,1550,KFC,Chinese,2026-04-15 10:00:00,53,Cancelled,Card,274.75,47.04,85,Pasig
+348,1337,Mang Inasal,Fast Food,2026-04-15 11:00:00,23,Late,Cash,526.99,76.44,78,Laguna
+349,1871,Mang Inasal,Dessert,2026-04-15 12:00:00,47,Delivered,Cash,106.6,35.0,33,Cavite
+350,1640,Mang Inasal,Filipino,2026-04-15 13:00:00,78,Late,GCash,123.23,80.05,10,Pasig
+351,1778,Mang Inasal,Chinese,2026-04-15 14:00:00,46,Delivered,GCash,597.96,38.88,83,Cavite
+352,1987,Chowking,Chinese,2026-04-15 15:00:00,88,Delivered,Card,568.4,31.48,30,Manila
+353,1952,Chowking,Fast Food,2026-04-15 16:00:00,44,Cancelled,GCash,995.12,34.83,22,Laguna
+354,1472,McDo,Chinese,2026-04-15 17:00:00,22,Cancelled,Card,281.66,34.57,3,Laguna
+355,1945,Jollibee,Dessert,2026-04-15 18:00:00,87,Cancelled,Cash,332.29,61.03,82,Cavite
+356,1150,Mang Inasal,Fast Food,2026-04-15 19:00:00,44,Late,Cash,202.19,87.58,75,Cavite
+357,1414,McDo,Fast Food,2026-04-15 20:00:00,39,Late,Card,925.79,26.37,48,Manila
+358,1989,Jollibee,Fast Food,2026-04-15 21:00:00,53,Cancelled,GCash,800.03,76.56,2,Pasig
+359,1297,KFC,Fast Food,2026-04-15 22:00:00,45,Late,Card,840.11,72.35,76,Laguna
+360,1610,Chowking,Dessert,2026-04-15 23:00:00,24,Cancelled,GCash,912.49,89.8,54,Laguna
+361,1262,Jollibee,Fast Food,2026-04-16 00:00:00,80,Late,Cash,572.41,39.53,6,Manila
+362,1763,KFC,Chinese,2026-04-16 01:00:00,28,Delivered,GCash,506.07,56.01,40,Manila
+363,1143,Jollibee,Dessert,2026-04-16 02:00:00,69,Delivered,Card,397.35,94.07,93,Cavite
+364,1345,Chowking,Filipino,2026-04-16 03:00:00,25,Cancelled,Card,630.29,72.8,94,Cavite
+365,1623,Chowking,Filipino,2026-04-16 04:00:00,79,Late,Cash,508.85,51.1,2,Pasig
+366,1571,McDo,Chinese,2026-04-16 05:00:00,63,Late,GCash,506.41,30.51,73,Manila
+367,1880,Mang Inasal,Chinese,2026-04-16 06:00:00,30,Delivered,GCash,943.24,41.0,2,Pasig
+368,1001,Jollibee,Dessert,2026-04-16 07:00:00,85,Delivered,GCash,985.63,66.5,93,Manila
+369,1896,Jollibee,Filipino,2026-04-16 08:00:00,66,Cancelled,Cash,816.84,77.45,97,Laguna
+370,1303,KFC,Filipino,2026-04-16 09:00:00,22,Delivered,GCash,781.08,29.95,74,Manila
+371,1253,Chowking,Filipino,2026-04-16 10:00:00,49,Cancelled,Card,712.5,67.97,98,Manila
+372,1651,Jollibee,Filipino,2026-04-16 11:00:00,40,Delivered,GCash,249.47,64.03,55,Laguna
+373,1452,Chowking,Filipino,2026-04-16 12:00:00,47,Delivered,Cash,153.2,61.12,72,Manila
+374,1036,Jollibee,Fast Food,2026-04-16 13:00:00,81,Late,GCash,721.65,75.21,60,Pasig
+375,1159,McDo,Chinese,2026-04-16 14:00:00,52,Delivered,GCash,755.91,87.0,97,Cavite
+376,1008,Mang Inasal,Fast Food,2026-04-16 15:00:00,54,Delivered,Card,142.28,45.84,6,Cavite
+377,1232,Jollibee,Filipino,2026-04-16 16:00:00,71,Cancelled,GCash,935.25,91.12,19,Pasig
+378,1098,Chowking,Dessert,2026-04-16 17:00:00,53,Delivered,Card,182.03,32.85,96,Laguna
+379,1658,McDo,Dessert,2026-04-16 18:00:00,60,Cancelled,Card,357.31,33.84,27,Manila
+380,1815,Jollibee,Filipino,2026-04-16 19:00:00,70,Delivered,Cash,705.15,41.34,1,Pasig
+381,1207,KFC,Filipino,2026-04-16 20:00:00,66,Delivered,Card,252.89,29.56,33,Cavite
+382,1130,Mang Inasal,Dessert,2026-04-16 21:00:00,77,Cancelled,Card,149.87,38.43,40,Cavite
+383,1403,Jollibee,Fast Food,2026-04-16 22:00:00,76,Late,Cash,398.03,28.51,32,Pasig
+384,1151,McDo,Fast Food,2026-04-16 23:00:00,42,Cancelled,Card,789.37,85.74,69,Cavite
+385,1053,KFC,Filipino,2026-04-17 00:00:00,67,Cancelled,Cash,472.31,31.12,17,Pasig
+386,1119,McDo,Fast Food,2026-04-17 01:00:00,41,Cancelled,GCash,687.68,79.78,8,Cavite
+387,1672,McDo,Dessert,2026-04-17 02:00:00,36,Late,Cash,621.66,23.83,57,Pasig
+388,1919,KFC,Fast Food,2026-04-17 03:00:00,88,Delivered,Card,120.0,95.88,42,Manila
+389,1627,McDo,Filipino,2026-04-17 04:00:00,30,Cancelled,Cash,989.69,76.89,98,Manila
+390,1586,KFC,Dessert,2026-04-17 05:00:00,34,Cancelled,Card,137.29,20.54,9,Manila
+391,1624,Jollibee,Fast Food,2026-04-17 06:00:00,54,Late,GCash,971.02,81.11,87,Manila
+392,1967,KFC,Chinese,2026-04-17 07:00:00,52,Cancelled,Cash,594.88,61.13,35,Cavite
+393,1419,KFC,Dessert,2026-04-17 08:00:00,35,Delivered,GCash,966.84,82.35,71,Laguna
+394,1421,Mang Inasal,Dessert,2026-04-17 09:00:00,53,Late,Card,203.28,61.8,79,Pasig
+395,1103,KFC,Chinese,2026-04-17 10:00:00,85,Delivered,Card,541.37,71.28,53,Laguna
+396,1851,KFC,Chinese,2026-04-17 11:00:00,59,Delivered,GCash,252.55,82.91,54,Cavite
+397,1253,Jollibee,Dessert,2026-04-17 12:00:00,47,Late,Cash,145.88,52.41,84,Cavite
+398,1226,Mang Inasal,Chinese,2026-04-17 13:00:00,66,Cancelled,Cash,655.78,20.22,25,Laguna
+399,1111,Chowking,Filipino,2026-04-17 14:00:00,58,Delivered,Card,287.01,88.0,67,Laguna
+400,1509,Jollibee,Filipino,2026-04-17 15:00:00,89,Delivered,GCash,628.93,50.47,62,Cavite
+401,1472,Jollibee,Filipino,2026-04-17 16:00:00,39,Delivered,GCash,201.13,59.68,55,Cavite
+402,1098,Chowking,Dessert,2026-04-17 17:00:00,20,Delivered,Cash,398.79,20.62,46,Pasig
+403,1152,KFC,Chinese,2026-04-17 18:00:00,82,Late,Cash,803.47,59.37,24,Manila
+404,1860,McDo,Chinese,2026-04-17 19:00:00,86,Late,Cash,493.35,98.92,98,Manila
+405,1913,Mang Inasal,Fast Food,2026-04-17 20:00:00,23,Delivered,GCash,664.97,42.26,46,Pasig
+406,1895,McDo,Fast Food,2026-04-17 21:00:00,77,Cancelled,Cash,682.71,51.63,22,Laguna
+407,1877,Chowking,Chinese,2026-04-17 22:00:00,44,Delivered,Cash,859.38,74.98,11,Cavite
+408,1337,Jollibee,Chinese,2026-04-17 23:00:00,66,Cancelled,Card,392.43,85.18,48,Laguna
+409,1705,Jollibee,Chinese,2026-04-18 00:00:00,57,Delivered,Cash,718.57,53.39,8,Manila
+410,1821,Mang Inasal,Dessert,2026-04-18 01:00:00,34,Cancelled,Cash,965.45,44.77,39,Manila
+411,1162,Jollibee,Chinese,2026-04-18 02:00:00,82,Delivered,GCash,757.22,95.03,35,Laguna
+412,1719,Jollibee,Fast Food,2026-04-18 03:00:00,40,Cancelled,GCash,540.88,74.17,49,Manila
+413,1956,Mang Inasal,Dessert,2026-04-18 04:00:00,76,Delivered,Card,667.65,29.52,46,Cavite
+414,1680,Mang Inasal,Chinese,2026-04-18 05:00:00,72,Delivered,Cash,765.71,25.51,38,Pasig
+415,1995,Chowking,Fast Food,2026-04-18 06:00:00,65,Cancelled,Card,651.05,58.68,8,Laguna
+416,1160,Jollibee,Dessert,2026-04-18 07:00:00,33,Late,GCash,115.01,37.61,54,Cavite
+417,1579,Jollibee,Chinese,2026-04-18 08:00:00,36,Cancelled,Card,275.3,40.32,37,Cavite
+418,1800,Chowking,Chinese,2026-04-18 09:00:00,58,Late,GCash,829.42,90.22,91,Manila
+419,1397,KFC,Chinese,2026-04-18 10:00:00,28,Delivered,Card,345.39,27.17,92,Cavite
+420,1276,KFC,Dessert,2026-04-18 11:00:00,25,Cancelled,Card,758.41,77.23,40,Laguna
+421,1815,KFC,Fast Food,2026-04-18 12:00:00,42,Cancelled,Cash,434.91,41.69,34,Cavite
+422,1915,Chowking,Fast Food,2026-04-18 13:00:00,78,Cancelled,Card,569.7,80.83,96,Pasig
+423,1503,Jollibee,Filipino,2026-04-18 14:00:00,65,Late,Cash,161.18,77.79,79,Cavite
+424,1895,Chowking,Chinese,2026-04-18 15:00:00,57,Late,Cash,263.1,20.59,17,Cavite
+425,1391,Chowking,Filipino,2026-04-18 16:00:00,33,Delivered,Cash,961.48,60.73,33,Pasig
+426,1134,KFC,Filipino,2026-04-18 17:00:00,81,Late,Cash,901.12,31.15,47,Cavite
+427,1194,McDo,Fast Food,2026-04-18 18:00:00,54,Late,Card,687.05,89.3,52,Cavite
+428,1400,Jollibee,Dessert,2026-04-18 19:00:00,38,Delivered,GCash,513.68,89.73,80,Manila
+429,1639,KFC,Dessert,2026-04-18 20:00:00,49,Cancelled,GCash,708.19,53.47,93,Laguna
+430,1032,McDo,Fast Food,2026-04-18 21:00:00,44,Cancelled,GCash,656.75,55.55,9,Manila
+431,1687,McDo,Dessert,2026-04-18 22:00:00,59,Delivered,Card,611.7,44.26,33,Laguna
+432,1459,Mang Inasal,Filipino,2026-04-18 23:00:00,33,Cancelled,Cash,153.26,77.33,60,Pasig
+433,1954,Jollibee,Chinese,2026-04-19 00:00:00,45,Late,GCash,669.52,48.69,93,Pasig
+434,1882,McDo,Fast Food,2026-04-19 01:00:00,41,Delivered,Card,792.03,41.42,77,Pasig
+435,1469,KFC,Chinese,2026-04-19 02:00:00,67,Delivered,Cash,994.67,54.58,21,Laguna
+436,1374,Mang Inasal,Dessert,2026-04-19 03:00:00,70,Delivered,GCash,109.97,27.32,58,Laguna
+437,1021,Jollibee,Chinese,2026-04-19 04:00:00,22,Cancelled,Cash,757.16,79.73,85,Laguna
+438,1749,Chowking,Dessert,2026-04-19 05:00:00,61,Delivered,GCash,614.61,21.01,69,Pasig
+439,1669,KFC,Dessert,2026-04-19 06:00:00,38,Delivered,GCash,490.65,71.56,10,Laguna
+440,1037,McDo,Filipino,2026-04-19 07:00:00,47,Delivered,GCash,214.81,34.63,6,Cavite
+441,1229,McDo,Dessert,2026-04-19 08:00:00,64,Cancelled,Cash,468.18,38.59,13,Manila
+442,1364,KFC,Filipino,2026-04-19 09:00:00,82,Late,Card,418.94,70.85,65,Pasig
+443,1562,McDo,Filipino,2026-04-19 10:00:00,38,Delivered,Cash,372.55,99.44,20,Manila
+444,1437,Mang Inasal,Filipino,2026-04-19 11:00:00,66,Late,GCash,757.79,82.22,57,Cavite
+445,1775,Jollibee,Fast Food,2026-04-19 12:00:00,33,Cancelled,Cash,730.65,38.07,46,Laguna
+446,1282,Mang Inasal,Fast Food,2026-04-19 13:00:00,57,Cancelled,Card,630.12,34.08,8,Manila
+447,1026,McDo,Dessert,2026-04-19 14:00:00,72,Cancelled,Cash,944.8,89.3,10,Cavite
+448,1225,Chowking,Filipino,2026-04-19 15:00:00,80,Cancelled,Card,414.87,55.53,73,Cavite
+449,1276,Jollibee,Fast Food,2026-04-19 16:00:00,55,Late,Card,319.42,30.96,67,Manila
+450,1797,Jollibee,Filipino,2026-04-19 17:00:00,59,Delivered,Cash,690.31,88.98,11,Pasig
+451,1608,KFC,Chinese,2026-04-19 18:00:00,49,Cancelled,GCash,278.93,85.29,12,Manila
+452,1283,KFC,Chinese,2026-04-19 19:00:00,28,Cancelled,Card,383.51,98.71,10,Pasig
+453,1878,Chowking,Chinese,2026-04-19 20:00:00,83,Late,Cash,302.14,92.78,25,Laguna
+454,1959,Jollibee,Dessert,2026-04-19 21:00:00,52,Late,Card,162.24,88.14,49,Pasig
+455,1480,Chowking,Filipino,2026-04-19 22:00:00,71,Cancelled,GCash,844.75,24.21,49,Laguna
+456,1452,KFC,Chinese,2026-04-19 23:00:00,33,Delivered,Cash,329.09,28.35,89,Manila
+457,1828,KFC,Fast Food,2026-04-20 00:00:00,72,Delivered,Cash,525.72,65.52,11,Laguna
+458,1815,Jollibee,Chinese,2026-04-20 01:00:00,78,Cancelled,Cash,138.98,62.52,62,Cavite
+459,1658,Mang Inasal,Chinese,2026-04-20 02:00:00,60,Late,GCash,729.41,56.64,36,Laguna
+460,1515,McDo,Chinese,2026-04-20 03:00:00,87,Cancelled,Card,397.5,51.74,39,Pasig
+461,1546,KFC,Dessert,2026-04-20 04:00:00,87,Cancelled,Cash,770.26,54.5,53,Pasig
+462,1191,KFC,Fast Food,2026-04-20 05:00:00,27,Late,Card,471.16,65.54,90,Pasig
+463,1048,Mang Inasal,Filipino,2026-04-20 06:00:00,21,Cancelled,Card,276.18,20.17,78,Laguna
+464,1511,Mang Inasal,Fast Food,2026-04-20 07:00:00,60,Cancelled,GCash,561.86,40.86,56,Pasig
+465,1016,Chowking,Filipino,2026-04-20 08:00:00,74,Cancelled,Cash,217.45,61.46,1,Pasig
+466,1171,Chowking,Dessert,2026-04-20 09:00:00,35,Late,Card,496.49,77.78,56,Cavite
+467,1219,McDo,Dessert,2026-04-20 10:00:00,81,Delivered,Cash,385.57,33.93,4,Laguna
+468,1157,McDo,Dessert,2026-04-20 11:00:00,67,Delivered,Cash,920.76,63.75,30,Cavite
+469,1476,Jollibee,Dessert,2026-04-20 12:00:00,49,Late,GCash,154.84,77.16,12,Pasig
+470,1045,Chowking,Filipino,2026-04-20 13:00:00,31,Delivered,Cash,724.62,55.57,35,Pasig
+471,1372,KFC,Chinese,2026-04-20 14:00:00,54,Cancelled,Cash,264.48,22.17,77,Pasig
+472,1517,Chowking,Filipino,2026-04-20 15:00:00,30,Delivered,Card,387.14,55.94,52,Laguna
+473,1098,KFC,Fast Food,2026-04-20 16:00:00,83,Cancelled,GCash,473.96,43.72,31,Manila
+474,1891,Mang Inasal,Dessert,2026-04-20 17:00:00,69,Delivered,Cash,917.21,94.37,87,Pasig
+475,1744,Chowking,Dessert,2026-04-20 18:00:00,40,Late,Card,318.32,29.97,68,Pasig
+476,1036,Mang Inasal,Fast Food,2026-04-20 19:00:00,88,Delivered,GCash,182.18,72.2,52,Pasig
+477,1279,McDo,Filipino,2026-04-20 20:00:00,67,Delivered,GCash,386.82,24.22,80,Pasig
+478,1348,McDo,Chinese,2026-04-20 21:00:00,39,Delivered,Card,194.21,55.69,7,Laguna
+479,1496,Jollibee,Chinese,2026-04-20 22:00:00,86,Late,Card,215.74,64.32,22,Manila
+480,1301,Chowking,Fast Food,2026-04-20 23:00:00,63,Delivered,Card,616.47,43.84,93,Manila
+481,1180,Mang Inasal,Chinese,2026-04-21 00:00:00,52,Late,Card,154.81,56.41,75,Manila
+482,1606,KFC,Filipino,2026-04-21 01:00:00,80,Cancelled,Card,127.84,33.08,56,Pasig
+483,1098,McDo,Filipino,2026-04-21 02:00:00,28,Delivered,Cash,742.97,44.33,97,Pasig
+484,1699,McDo,Fast Food,2026-04-21 03:00:00,87,Late,Cash,425.48,69.69,58,Manila
+485,1992,KFC,Filipino,2026-04-21 04:00:00,54,Late,GCash,212.84,44.14,93,Manila
+486,1115,Mang Inasal,Dessert,2026-04-21 05:00:00,84,Delivered,Cash,328.25,91.98,64,Pasig
+487,1190,Mang Inasal,Fast Food,2026-04-21 06:00:00,27,Cancelled,Cash,677.88,70.27,12,Pasig
+488,1252,Chowking,Filipino,2026-04-21 07:00:00,64,Late,Cash,347.98,55.09,7,Cavite
+489,1980,Chowking,Fast Food,2026-04-21 08:00:00,66,Delivered,Card,545.07,23.1,55,Cavite
+490,1927,Jollibee,Chinese,2026-04-21 09:00:00,59,Cancelled,GCash,209.53,59.96,62,Cavite
+491,1982,McDo,Filipino,2026-04-21 10:00:00,73,Late,GCash,629.28,81.18,90,Manila
+492,1160,Chowking,Dessert,2026-04-21 11:00:00,65,Late,GCash,384.47,41.24,73,Laguna
+493,1255,Mang Inasal,Filipino,2026-04-21 12:00:00,66,Cancelled,GCash,664.27,84.54,98,Pasig
+494,1322,KFC,Fast Food,2026-04-21 13:00:00,34,Cancelled,Cash,827.56,40.14,77,Cavite
+495,1127,Mang Inasal,Fast Food,2026-04-21 14:00:00,38,Delivered,Cash,650.48,85.9,55,Laguna
+496,1017,McDo,Filipino,2026-04-21 15:00:00,45,Delivered,Card,366.17,26.82,36,Pasig
+497,1792,Mang Inasal,Dessert,2026-04-21 16:00:00,71,Late,GCash,330.17,89.29,89,Laguna
+498,1734,Jollibee,Dessert,2026-04-21 17:00:00,41,Cancelled,Cash,394.68,59.93,24,Manila
+499,1565,McDo,Dessert,2026-04-21 18:00:00,40,Cancelled,Cash,248.16,43.72,44,Manila
+500,1569,KFC,Fast Food,2026-04-21 19:00:00,70,Cancelled,Card,263.05,41.21,17,Manila
+501,1322,Jollibee,Filipino,2026-04-21 20:00:00,57,Late,Card,811.62,54.56,2,Cavite
+502,1871,McDo,Chinese,2026-04-21 21:00:00,39,Cancelled,Card,446.26,99.92,13,Pasig
+503,1685,KFC,Fast Food,2026-04-21 22:00:00,48,Cancelled,Cash,492.4,37.63,31,Manila
+504,1791,Jollibee,Dessert,2026-04-21 23:00:00,70,Late,Cash,634.64,28.26,93,Cavite
+505,1625,Jollibee,Filipino,2026-04-22 00:00:00,23,Delivered,Card,630.69,66.8,28,Cavite
+506,1287,McDo,Dessert,2026-04-22 01:00:00,74,Delivered,GCash,160.64,59.08,60,Cavite
+507,1942,Chowking,Chinese,2026-04-22 02:00:00,47,Late,Card,848.39,61.94,27,Cavite
+508,1853,Jollibee,Dessert,2026-04-22 03:00:00,23,Cancelled,Card,259.59,73.35,15,Manila
+509,1662,Jollibee,Dessert,2026-04-22 04:00:00,41,Late,Card,750.76,41.37,95,Cavite
+510,1961,KFC,Chinese,2026-04-22 05:00:00,64,Delivered,Card,795.4,92.85,79,Manila
+511,1638,Mang Inasal,Filipino,2026-04-22 06:00:00,86,Delivered,Cash,743.41,54.85,33,Manila
+512,1154,McDo,Fast Food,2026-04-22 07:00:00,85,Late,GCash,621.08,30.33,20,Cavite
+513,1489,McDo,Filipino,2026-04-22 08:00:00,53,Late,Card,113.15,79.38,42,Manila
+514,1385,Chowking,Chinese,2026-04-22 09:00:00,74,Delivered,GCash,424.34,71.45,12,Pasig
+515,1985,Chowking,Dessert,2026-04-22 10:00:00,20,Late,GCash,644.36,45.26,73,Pasig
+516,1784,McDo,Filipino,2026-04-22 11:00:00,57,Delivered,GCash,448.71,69.72,23,Laguna
+517,1103,Chowking,Fast Food,2026-04-22 12:00:00,25,Late,Card,877.13,37.59,72,Pasig
+518,1928,KFC,Chinese,2026-04-22 13:00:00,44,Late,Cash,377.92,55.59,96,Manila
+519,1392,McDo,Filipino,2026-04-22 14:00:00,36,Late,Card,364.18,91.95,14,Manila
+520,1810,Chowking,Fast Food,2026-04-22 15:00:00,80,Delivered,GCash,339.4,30.68,91,Pasig
+521,1245,McDo,Chinese,2026-04-22 16:00:00,31,Late,GCash,399.5,50.94,25,Cavite
+522,1175,Mang Inasal,Fast Food,2026-04-22 17:00:00,25,Delivered,Cash,601.66,85.69,77,Cavite
+523,1038,Jollibee,Chinese,2026-04-22 18:00:00,46,Delivered,Card,736.31,97.56,85,Manila
+524,1476,McDo,Dessert,2026-04-22 19:00:00,27,Late,GCash,696.31,56.31,31,Cavite
+525,1681,Jollibee,Filipino,2026-04-22 20:00:00,84,Late,Cash,826.95,60.56,54,Laguna
+526,1758,Chowking,Fast Food,2026-04-22 21:00:00,76,Delivered,GCash,897.32,65.77,5,Laguna
+527,1537,Jollibee,Chinese,2026-04-22 22:00:00,59,Delivered,Cash,834.47,94.59,13,Pasig
+528,1866,McDo,Fast Food,2026-04-22 23:00:00,33,Cancelled,Cash,117.05,88.66,28,Pasig
+529,1817,Mang Inasal,Fast Food,2026-04-23 00:00:00,54,Delivered,Card,762.33,33.65,43,Cavite
+530,1920,Chowking,Filipino,2026-04-23 01:00:00,67,Cancelled,GCash,287.56,54.94,89,Manila
+531,1407,McDo,Dessert,2026-04-23 02:00:00,75,Cancelled,Card,219.64,57.12,99,Pasig
+532,1524,Chowking,Fast Food,2026-04-23 03:00:00,68,Cancelled,GCash,674.64,83.13,47,Laguna
+533,1827,KFC,Chinese,2026-04-23 04:00:00,32,Late,Card,387.77,68.23,71,Pasig
+534,1505,Jollibee,Chinese,2026-04-23 05:00:00,80,Late,GCash,151.41,72.34,38,Pasig
+535,1902,KFC,Dessert,2026-04-23 06:00:00,68,Delivered,Card,223.87,99.86,96,Laguna
+536,1824,McDo,Chinese,2026-04-23 07:00:00,65,Cancelled,Cash,100.84,26.0,67,Manila
+537,1035,Mang Inasal,Dessert,2026-04-23 08:00:00,81,Late,GCash,912.9,37.84,62,Pasig
+538,1684,Chowking,Chinese,2026-04-23 09:00:00,27,Late,GCash,122.16,52.63,39,Pasig
+539,1019,Jollibee,Filipino,2026-04-23 10:00:00,62,Late,Cash,288.51,47.82,37,Pasig
+540,1320,Chowking,Fast Food,2026-04-23 11:00:00,39,Late,Card,474.64,21.73,86,Cavite
+541,1775,McDo,Filipino,2026-04-23 12:00:00,58,Late,GCash,420.91,27.34,8,Pasig
+542,1511,Chowking,Fast Food,2026-04-23 13:00:00,68,Cancelled,GCash,920.55,74.48,81,Laguna
+543,1399,Jollibee,Fast Food,2026-04-23 14:00:00,83,Cancelled,Card,136.26,90.35,52,Manila
+544,1653,McDo,Fast Food,2026-04-23 15:00:00,81,Cancelled,Cash,560.99,61.14,91,Manila
+545,1971,Chowking,Filipino,2026-04-23 16:00:00,73,Cancelled,Card,712.43,63.14,33,Laguna
+546,1882,Mang Inasal,Fast Food,2026-04-23 17:00:00,28,Delivered,Card,938.53,40.41,81,Cavite
+547,1470,McDo,Filipino,2026-04-23 18:00:00,56,Cancelled,Card,658.33,81.43,42,Laguna
+548,1142,McDo,Dessert,2026-04-23 19:00:00,68,Late,GCash,823.38,80.14,76,Manila
+549,1091,Mang Inasal,Chinese,2026-04-23 20:00:00,60,Cancelled,Cash,175.35,67.07,27,Laguna
+550,1353,KFC,Chinese,2026-04-23 21:00:00,36,Delivered,Cash,447.35,37.01,8,Cavite
+551,1833,Jollibee,Fast Food,2026-04-23 22:00:00,40,Late,Card,436.55,27.76,23,Manila
+552,1799,KFC,Filipino,2026-04-23 23:00:00,70,Cancelled,GCash,897.66,25.14,64,Cavite
+553,1726,Chowking,Chinese,2026-04-24 00:00:00,78,Cancelled,Card,236.23,67.42,93,Laguna
+554,1958,Mang Inasal,Filipino,2026-04-24 01:00:00,58,Cancelled,GCash,236.7,86.0,20,Pasig
+555,1853,KFC,Filipino,2026-04-24 02:00:00,74,Late,GCash,395.7,88.67,16,Laguna
+556,1050,McDo,Fast Food,2026-04-24 03:00:00,60,Late,GCash,149.02,57.09,17,Cavite
+557,1664,Chowking,Chinese,2026-04-24 04:00:00,58,Delivered,GCash,264.21,82.74,80,Laguna
+558,1697,Chowking,Fast Food,2026-04-24 05:00:00,32,Late,Cash,968.69,95.75,19,Pasig
+559,1574,KFC,Fast Food,2026-04-24 06:00:00,83,Late,GCash,485.37,42.01,8,Cavite
+560,1189,KFC,Chinese,2026-04-24 07:00:00,30,Cancelled,GCash,668.82,51.84,38,Laguna
+561,1124,Mang Inasal,Chinese,2026-04-24 08:00:00,38,Late,Card,753.5,94.52,38,Cavite
+562,1149,Jollibee,Dessert,2026-04-24 09:00:00,30,Cancelled,Card,430.27,47.06,53,Cavite
+563,1313,KFC,Dessert,2026-04-24 10:00:00,65,Cancelled,Cash,232.5,93.11,93,Manila
+564,1569,KFC,Filipino,2026-04-24 11:00:00,64,Late,Card,285.92,98.48,90,Manila
+565,1341,McDo,Chinese,2026-04-24 12:00:00,20,Delivered,GCash,381.94,72.94,31,Cavite
+566,1304,Chowking,Dessert,2026-04-24 13:00:00,59,Delivered,Card,672.46,85.35,44,Laguna
+567,1691,Jollibee,Filipino,2026-04-24 14:00:00,38,Late,Cash,458.45,79.96,60,Laguna
+568,1681,McDo,Filipino,2026-04-24 15:00:00,80,Delivered,Card,106.13,75.96,76,Laguna
+569,1837,Mang Inasal,Filipino,2026-04-24 16:00:00,31,Cancelled,Card,571.07,44.55,17,Pasig
+570,1782,Mang Inasal,Dessert,2026-04-24 17:00:00,80,Cancelled,Cash,929.36,24.57,79,Cavite
+571,1053,KFC,Chinese,2026-04-24 18:00:00,52,Late,Cash,830.87,47.44,73,Cavite
+572,1443,KFC,Fast Food,2026-04-24 19:00:00,64,Delivered,GCash,842.69,73.35,39,Pasig
+573,1612,Mang Inasal,Filipino,2026-04-24 20:00:00,88,Delivered,Card,815.55,28.2,42,Cavite
+574,1992,KFC,Dessert,2026-04-24 21:00:00,27,Cancelled,GCash,391.36,20.95,48,Cavite
+575,1263,Jollibee,Dessert,2026-04-24 22:00:00,44,Late,Card,788.67,31.18,12,Pasig
+576,1052,KFC,Fast Food,2026-04-24 23:00:00,65,Delivered,Card,228.85,77.26,96,Manila
+577,1571,Chowking,Fast Food,2026-04-25 00:00:00,49,Late,GCash,691.94,97.82,89,Cavite
+578,1619,KFC,Dessert,2026-04-25 01:00:00,66,Delivered,Card,677.41,98.65,18,Pasig
+579,1004,McDo,Chinese,2026-04-25 02:00:00,68,Cancelled,Card,123.01,59.52,79,Laguna
+580,1102,Jollibee,Fast Food,2026-04-25 03:00:00,66,Cancelled,Card,809.17,89.55,96,Manila
+581,1195,McDo,Dessert,2026-04-25 04:00:00,37,Late,Cash,912.92,78.95,6,Laguna
+582,1773,McDo,Fast Food,2026-04-25 05:00:00,85,Cancelled,GCash,340.67,60.08,43,Cavite
+583,1876,Chowking,Chinese,2026-04-25 06:00:00,87,Delivered,Cash,831.15,65.82,35,Manila
+584,1991,Jollibee,Filipino,2026-04-25 07:00:00,52,Cancelled,GCash,174.17,30.98,98,Pasig
+585,1883,Jollibee,Fast Food,2026-04-25 08:00:00,55,Late,GCash,639.97,95.01,54,Cavite
+586,1349,Jollibee,Chinese,2026-04-25 09:00:00,38,Late,Card,537.08,48.15,62,Pasig
+587,1046,Jollibee,Dessert,2026-04-25 10:00:00,47,Late,GCash,591.33,55.69,69,Manila
+588,1866,Jollibee,Fast Food,2026-04-25 11:00:00,59,Delivered,Cash,933.58,73.73,82,Laguna
+589,1822,Chowking,Fast Food,2026-04-25 12:00:00,34,Delivered,Cash,884.18,46.71,16,Cavite
+590,1935,KFC,Dessert,2026-04-25 13:00:00,60,Delivered,Cash,806.58,40.34,8,Cavite
+591,1819,McDo,Filipino,2026-04-25 14:00:00,58,Delivered,GCash,346.33,70.48,89,Pasig
+592,1655,Jollibee,Dessert,2026-04-25 15:00:00,21,Delivered,Cash,920.64,22.0,96,Manila
+593,1268,KFC,Fast Food,2026-04-25 16:00:00,82,Cancelled,GCash,187.76,77.66,90,Pasig
+594,1369,KFC,Dessert,2026-04-25 17:00:00,48,Delivered,Cash,868.0,61.12,86,Manila
+595,1635,McDo,Chinese,2026-04-25 18:00:00,85,Delivered,Cash,395.34,68.46,31,Cavite
+596,1105,Chowking,Dessert,2026-04-25 19:00:00,70,Cancelled,GCash,148.4,70.55,10,Manila
+597,1669,Mang Inasal,Fast Food,2026-04-25 20:00:00,29,Delivered,Cash,702.42,62.16,56,Cavite
+598,1658,Mang Inasal,Dessert,2026-04-25 21:00:00,33,Late,Card,308.15,66.6,76,Manila
+599,1656,KFC,Filipino,2026-04-25 22:00:00,70,Delivered,GCash,319.21,74.7,92,Laguna
+600,1119,McDo,Dessert,2026-04-25 23:00:00,58,Delivered,GCash,375.44,80.25,70,Manila
+601,1830,Mang Inasal,Filipino,2026-04-26 00:00:00,47,Late,GCash,157.32,78.2,20,Laguna
+602,1786,KFC,Chinese,2026-04-26 01:00:00,22,Late,Card,259.41,89.57,5,Manila
+603,1603,Chowking,Filipino,2026-04-26 02:00:00,89,Late,GCash,104.63,35.16,23,Manila
+604,1057,Mang Inasal,Dessert,2026-04-26 03:00:00,46,Late,Cash,500.87,52.09,9,Pasig
+605,1950,KFC,Fast Food,2026-04-26 04:00:00,21,Delivered,Cash,175.83,95.82,58,Pasig
+606,1345,KFC,Filipino,2026-04-26 05:00:00,57,Late,Cash,714.39,51.73,59,Cavite
+607,1740,Jollibee,Chinese,2026-04-26 06:00:00,22,Late,GCash,312.06,29.99,93,Pasig
+608,1473,Chowking,Filipino,2026-04-26 07:00:00,35,Cancelled,Cash,949.22,62.04,80,Manila
+609,1116,Jollibee,Filipino,2026-04-26 08:00:00,59,Late,GCash,884.13,28.76,54,Pasig
+610,1829,McDo,Filipino,2026-04-26 09:00:00,21,Late,Cash,360.5,36.23,46,Manila
+611,1790,Jollibee,Chinese,2026-04-26 10:00:00,60,Cancelled,Card,804.89,99.87,22,Laguna
+612,1126,Jollibee,Dessert,2026-04-26 11:00:00,31,Cancelled,Card,822.92,63.31,64,Manila
+613,1392,Mang Inasal,Filipino,2026-04-26 12:00:00,54,Delivered,Card,987.91,42.72,8,Cavite
+614,1907,KFC,Filipino,2026-04-26 13:00:00,84,Cancelled,Card,638.06,99.58,20,Laguna
+615,1640,Chowking,Fast Food,2026-04-26 14:00:00,74,Delivered,GCash,173.77,97.32,51,Cavite
+616,1057,Jollibee,Chinese,2026-04-26 15:00:00,64,Cancelled,Cash,682.15,55.26,78,Cavite
+617,1633,Chowking,Filipino,2026-04-26 16:00:00,81,Cancelled,Card,662.48,40.83,39,Cavite
+618,1512,Jollibee,Chinese,2026-04-26 17:00:00,68,Delivered,GCash,674.52,87.07,37,Pasig
+619,1750,McDo,Filipino,2026-04-26 18:00:00,44,Cancelled,Card,376.43,77.25,50,Cavite
+620,1801,Jollibee,Dessert,2026-04-26 19:00:00,42,Delivered,Card,873.71,74.96,34,Laguna
+621,1095,Mang Inasal,Dessert,2026-04-26 20:00:00,43,Cancelled,GCash,963.52,91.45,75,Manila
+622,1637,KFC,Filipino,2026-04-26 21:00:00,57,Late,GCash,295.94,75.15,33,Cavite
+623,1117,McDo,Dessert,2026-04-26 22:00:00,47,Cancelled,Cash,179.34,42.7,31,Laguna
+624,1559,Jollibee,Filipino,2026-04-26 23:00:00,40,Delivered,Cash,275.08,75.51,54,Cavite
+625,1600,Chowking,Dessert,2026-04-27 00:00:00,73,Cancelled,Card,838.5,44.47,44,Manila
+626,1487,McDo,Fast Food,2026-04-27 01:00:00,37,Delivered,Card,708.98,80.74,34,Laguna
+627,1236,McDo,Fast Food,2026-04-27 02:00:00,55,Delivered,Cash,672.44,69.58,71,Laguna
+628,1884,Jollibee,Fast Food,2026-04-27 03:00:00,64,Late,Cash,461.61,26.19,62,Manila
+629,1896,McDo,Chinese,2026-04-27 04:00:00,72,Late,GCash,620.05,61.03,23,Laguna
+630,1271,Chowking,Chinese,2026-04-27 05:00:00,49,Delivered,Cash,377.09,47.46,46,Manila
+631,1188,McDo,Fast Food,2026-04-27 06:00:00,79,Cancelled,Cash,529.48,46.29,56,Laguna
+632,1998,Chowking,Chinese,2026-04-27 07:00:00,51,Delivered,Card,813.76,68.18,7,Laguna
+633,1703,Jollibee,Dessert,2026-04-27 08:00:00,86,Delivered,Cash,983.12,45.79,89,Manila
+634,1446,KFC,Filipino,2026-04-27 09:00:00,86,Cancelled,Card,939.24,82.15,61,Manila
+635,1580,McDo,Filipino,2026-04-27 10:00:00,47,Cancelled,Cash,940.48,25.66,3,Laguna
+636,1789,KFC,Filipino,2026-04-27 11:00:00,63,Cancelled,GCash,462.0,72.83,38,Laguna
+637,1860,Chowking,Fast Food,2026-04-27 12:00:00,60,Cancelled,Cash,521.91,84.74,84,Manila
+638,1246,McDo,Chinese,2026-04-27 13:00:00,82,Delivered,Cash,735.07,73.83,34,Pasig
+639,1962,Mang Inasal,Dessert,2026-04-27 14:00:00,42,Delivered,Cash,929.97,59.78,44,Manila
+640,1075,KFC,Dessert,2026-04-27 15:00:00,67,Late,Card,227.79,96.02,30,Laguna
+641,1153,McDo,Fast Food,2026-04-27 16:00:00,51,Delivered,GCash,373.82,44.0,17,Laguna
+642,1655,KFC,Dessert,2026-04-27 17:00:00,76,Cancelled,Cash,225.32,21.53,59,Laguna
+643,1434,McDo,Dessert,2026-04-27 18:00:00,52,Late,Card,650.81,54.56,10,Manila
+644,1996,Jollibee,Dessert,2026-04-27 19:00:00,43,Cancelled,GCash,375.67,22.64,99,Laguna
+645,1085,KFC,Dessert,2026-04-27 20:00:00,58,Delivered,Card,393.5,96.31,84,Pasig
+646,1696,Mang Inasal,Chinese,2026-04-27 21:00:00,53,Late,Card,163.82,36.79,18,Cavite
+647,1284,Mang Inasal,Dessert,2026-04-27 22:00:00,75,Cancelled,GCash,414.82,83.11,45,Pasig
+648,1973,Chowking,Filipino,2026-04-27 23:00:00,47,Late,Cash,876.25,81.97,91,Manila
+649,1219,McDo,Fast Food,2026-04-28 00:00:00,56,Late,Card,309.77,37.42,59,Laguna
+650,1068,KFC,Chinese,2026-04-28 01:00:00,26,Delivered,Card,725.67,69.7,62,Manila
+651,1046,Chowking,Dessert,2026-04-28 02:00:00,87,Cancelled,Cash,666.67,23.85,59,Cavite
+652,1093,KFC,Chinese,2026-04-28 03:00:00,56,Late,Cash,877.14,58.69,49,Manila
+653,1749,McDo,Dessert,2026-04-28 04:00:00,75,Late,GCash,219.06,21.17,63,Laguna
+654,1957,Mang Inasal,Filipino,2026-04-28 05:00:00,84,Cancelled,GCash,979.83,93.69,87,Cavite
+655,1452,Jollibee,Fast Food,2026-04-28 06:00:00,84,Late,GCash,624.37,98.09,32,Cavite
+656,1203,Mang Inasal,Dessert,2026-04-28 07:00:00,66,Late,Cash,995.93,37.78,10,Laguna
+657,1911,Chowking,Dessert,2026-04-28 08:00:00,39,Late,Card,920.36,36.65,11,Laguna
+658,1217,Jollibee,Dessert,2026-04-28 09:00:00,38,Cancelled,Card,299.37,80.3,70,Laguna
+659,1473,Chowking,Dessert,2026-04-28 10:00:00,48,Cancelled,GCash,150.55,40.27,62,Manila
+660,1431,McDo,Fast Food,2026-04-28 11:00:00,79,Cancelled,Cash,330.08,91.61,47,Pasig
+661,1340,Jollibee,Fast Food,2026-04-28 12:00:00,37,Cancelled,Card,574.81,65.91,34,Manila
+662,1550,Chowking,Filipino,2026-04-28 13:00:00,54,Delivered,GCash,254.44,48.06,17,Manila
+663,1611,McDo,Fast Food,2026-04-28 14:00:00,62,Late,Card,250.71,86.62,54,Pasig
+664,1288,Mang Inasal,Dessert,2026-04-28 15:00:00,30,Cancelled,Card,516.33,59.47,76,Laguna
+665,1253,McDo,Filipino,2026-04-28 16:00:00,68,Late,Cash,129.94,92.93,85,Laguna
+666,1733,KFC,Filipino,2026-04-28 17:00:00,57,Late,Cash,209.7,94.24,40,Pasig
+667,1356,McDo,Filipino,2026-04-28 18:00:00,83,Delivered,Card,474.28,33.23,19,Pasig
+668,1022,McDo,Dessert,2026-04-28 19:00:00,88,Cancelled,GCash,156.82,20.19,67,Manila
+669,1761,KFC,Chinese,2026-04-28 20:00:00,27,Cancelled,Cash,457.08,98.71,82,Cavite
+670,1521,Chowking,Dessert,2026-04-28 21:00:00,53,Late,Card,526.61,92.49,53,Pasig
+671,1757,Chowking,Fast Food,2026-04-28 22:00:00,67,Cancelled,Cash,506.14,24.44,64,Manila
+672,1836,McDo,Fast Food,2026-04-28 23:00:00,75,Late,Cash,882.26,86.64,83,Cavite
+673,1099,KFC,Dessert,2026-04-29 00:00:00,84,Late,Cash,577.06,56.62,47,Laguna
+674,1801,KFC,Dessert,2026-04-29 01:00:00,50,Delivered,Card,521.18,40.72,6,Laguna
+675,1179,Mang Inasal,Filipino,2026-04-29 02:00:00,23,Delivered,GCash,469.64,90.3,16,Manila
+676,1222,Chowking,Dessert,2026-04-29 03:00:00,69,Delivered,GCash,835.86,35.73,72,Manila
+677,1905,Jollibee,Filipino,2026-04-29 04:00:00,88,Late,GCash,905.55,95.78,18,Pasig
+678,1761,Chowking,Fast Food,2026-04-29 05:00:00,49,Cancelled,Cash,867.92,36.45,52,Laguna
+679,1658,Chowking,Filipino,2026-04-29 06:00:00,78,Delivered,Card,706.19,69.09,48,Manila
+680,1441,Mang Inasal,Dessert,2026-04-29 07:00:00,86,Cancelled,Cash,223.63,37.85,43,Laguna
+681,1607,Jollibee,Fast Food,2026-04-29 08:00:00,64,Delivered,GCash,349.18,63.65,39,Laguna
+682,1768,Mang Inasal,Chinese,2026-04-29 09:00:00,23,Delivered,GCash,141.46,74.72,49,Pasig
+683,1324,Jollibee,Filipino,2026-04-29 10:00:00,45,Late,Card,937.74,35.22,12,Cavite
+684,1515,McDo,Fast Food,2026-04-29 11:00:00,46,Delivered,Cash,694.72,61.67,10,Pasig
+685,1015,Jollibee,Filipino,2026-04-29 12:00:00,65,Delivered,GCash,771.73,57.52,71,Manila
+686,1791,Mang Inasal,Fast Food,2026-04-29 13:00:00,83,Late,Card,380.41,25.68,55,Pasig
+687,1335,Chowking,Fast Food,2026-04-29 14:00:00,70,Cancelled,Cash,861.09,85.46,1,Pasig
+688,1758,Jollibee,Filipino,2026-04-29 15:00:00,69,Delivered,Cash,333.64,46.85,49,Laguna
+689,1257,Jollibee,Chinese,2026-04-29 16:00:00,25,Late,GCash,101.48,65.97,36,Pasig
+690,1496,KFC,Fast Food,2026-04-29 17:00:00,78,Delivered,GCash,438.77,61.18,21,Manila
+691,1987,Chowking,Fast Food,2026-04-29 18:00:00,34,Late,Cash,613.69,61.06,37,Cavite
+692,1895,McDo,Fast Food,2026-04-29 19:00:00,49,Cancelled,Cash,530.83,28.58,24,Pasig
+693,1159,Mang Inasal,Chinese,2026-04-29 20:00:00,61,Cancelled,GCash,875.87,53.88,55,Pasig
+694,1474,McDo,Chinese,2026-04-29 21:00:00,56,Late,Cash,194.86,56.19,25,Cavite
+695,1851,Chowking,Dessert,2026-04-29 22:00:00,61,Late,GCash,598.44,78.69,7,Manila
+696,1663,Jollibee,Filipino,2026-04-29 23:00:00,54,Late,Cash,561.68,87.2,81,Manila
+697,1907,Jollibee,Chinese,2026-04-30 00:00:00,25,Cancelled,GCash,353.25,63.6,93,Pasig
+698,1689,Chowking,Filipino,2026-04-30 01:00:00,87,Delivered,Card,840.01,26.94,94,Laguna
+699,1674,Jollibee,Dessert,2026-04-30 02:00:00,37,Cancelled,GCash,777.56,38.95,71,Pasig
+700,1379,Jollibee,Filipino,2026-04-30 03:00:00,48,Late,GCash,759.57,33.19,97,Cavite
+701,1544,Jollibee,Chinese,2026-04-30 04:00:00,78,Late,Card,888.57,29.97,71,Cavite
+702,1928,Mang Inasal,Filipino,2026-04-30 05:00:00,66,Cancelled,Cash,750.51,49.27,24,Cavite
+703,1956,Mang Inasal,Chinese,2026-04-30 06:00:00,36,Late,Card,308.66,38.35,11,Pasig
+704,1690,KFC,Filipino,2026-04-30 07:00:00,41,Cancelled,GCash,735.01,37.46,73,Pasig
+705,1426,McDo,Chinese,2026-04-30 08:00:00,87,Late,Cash,376.93,24.38,12,Manila
+706,1612,Chowking,Chinese,2026-04-30 09:00:00,88,Delivered,Card,317.96,21.41,35,Laguna
+707,1267,Chowking,Filipino,2026-04-30 10:00:00,56,Delivered,Cash,165.7,28.22,63,Pasig
+708,1834,Chowking,Dessert,2026-04-30 11:00:00,68,Late,Cash,769.63,33.78,68,Manila
+709,1576,KFC,Fast Food,2026-04-30 12:00:00,32,Cancelled,Card,739.9,54.48,92,Pasig
+710,1416,Mang Inasal,Dessert,2026-04-30 13:00:00,53,Delivered,Cash,311.05,60.84,57,Manila
+711,1167,KFC,Filipino,2026-04-30 14:00:00,72,Cancelled,Card,774.44,31.25,13,Manila
+712,1841,Chowking,Dessert,2026-04-30 15:00:00,70,Late,GCash,926.06,53.98,23,Laguna
+713,1042,McDo,Chinese,2026-04-30 16:00:00,22,Cancelled,Cash,197.23,47.34,83,Pasig
+714,1555,Jollibee,Fast Food,2026-04-30 17:00:00,61,Delivered,GCash,309.37,34.67,39,Manila
+715,1284,Mang Inasal,Filipino,2026-04-30 18:00:00,51,Cancelled,GCash,775.23,20.55,88,Cavite
+716,1396,Mang Inasal,Filipino,2026-04-30 19:00:00,70,Cancelled,Cash,347.06,57.36,80,Cavite
+717,1011,KFC,Filipino,2026-04-30 20:00:00,65,Late,Card,662.2,74.85,97,Cavite
+718,1606,Mang Inasal,Fast Food,2026-04-30 21:00:00,40,Late,Cash,173.05,38.1,12,Laguna
+719,1301,Chowking,Chinese,2026-04-30 22:00:00,63,Late,GCash,506.98,30.54,34,Manila
+720,1897,Chowking,Filipino,2026-04-30 23:00:00,30,Delivered,GCash,765.18,90.96,71,Laguna
+721,1252,KFC,Dessert,2026-05-01 00:00:00,87,Delivered,Card,717.86,42.0,75,Pasig
+722,1498,Chowking,Filipino,2026-05-01 01:00:00,20,Late,Cash,833.56,37.89,31,Pasig
+723,1753,McDo,Filipino,2026-05-01 02:00:00,82,Late,GCash,889.71,88.57,93,Manila
+724,1034,KFC,Filipino,2026-05-01 03:00:00,43,Delivered,GCash,795.87,85.37,62,Cavite
+725,1726,McDo,Filipino,2026-05-01 04:00:00,32,Delivered,GCash,704.43,55.87,13,Manila
+726,1848,Jollibee,Chinese,2026-05-01 05:00:00,30,Delivered,Card,128.55,59.14,31,Manila
+727,1089,McDo,Dessert,2026-05-01 06:00:00,70,Delivered,GCash,581.47,37.42,2,Manila
+728,1775,Jollibee,Chinese,2026-05-01 07:00:00,36,Late,GCash,133.93,26.26,15,Laguna
+729,1604,Jollibee,Dessert,2026-05-01 08:00:00,43,Delivered,Cash,827.26,65.87,57,Pasig
+730,1921,McDo,Filipino,2026-05-01 09:00:00,38,Late,Cash,388.65,27.87,75,Manila
+731,1969,KFC,Fast Food,2026-05-01 10:00:00,56,Cancelled,GCash,606.19,55.94,34,Manila
+732,1601,Chowking,Chinese,2026-05-01 11:00:00,27,Cancelled,GCash,351.5,95.24,68,Manila
+733,1417,Chowking,Fast Food,2026-05-01 12:00:00,47,Delivered,Cash,804.25,96.23,75,Laguna
+734,1114,Jollibee,Chinese,2026-05-01 13:00:00,24,Cancelled,Card,897.85,39.15,29,Laguna
+735,1616,Jollibee,Filipino,2026-05-01 14:00:00,36,Cancelled,Card,458.78,69.93,66,Laguna
+736,1902,KFC,Chinese,2026-05-01 15:00:00,55,Cancelled,Card,876.63,57.93,16,Manila
+737,1195,Mang Inasal,Filipino,2026-05-01 16:00:00,38,Delivered,Card,340.37,90.05,39,Cavite
+738,1825,McDo,Chinese,2026-05-01 17:00:00,83,Delivered,Card,581.19,41.71,77,Cavite
+739,1500,Jollibee,Filipino,2026-05-01 18:00:00,30,Cancelled,Card,872.89,20.3,37,Cavite
+740,1625,Chowking,Filipino,2026-05-01 19:00:00,73,Late,Card,393.29,33.0,81,Pasig
+741,1492,KFC,Dessert,2026-05-01 20:00:00,64,Cancelled,Card,958.64,47.96,21,Manila
+742,1074,McDo,Filipino,2026-05-01 21:00:00,66,Delivered,Cash,209.69,45.26,44,Cavite
+743,1412,KFC,Dessert,2026-05-01 22:00:00,31,Delivered,Card,116.45,83.31,19,Cavite
+744,1375,McDo,Filipino,2026-05-01 23:00:00,40,Delivered,Card,913.72,74.44,71,Cavite
+745,1419,McDo,Fast Food,2026-05-02 00:00:00,30,Cancelled,Card,161.78,43.96,8,Manila
+746,1728,Jollibee,Filipino,2026-05-02 01:00:00,24,Late,GCash,992.7,56.62,77,Cavite
+747,1276,KFC,Fast Food,2026-05-02 02:00:00,75,Delivered,Cash,956.26,27.64,66,Cavite
+748,1760,KFC,Fast Food,2026-05-02 03:00:00,39,Delivered,Cash,223.32,91.85,41,Manila
+749,1675,Chowking,Filipino,2026-05-02 04:00:00,60,Cancelled,Cash,583.83,94.83,75,Pasig
+750,1393,Chowking,Fast Food,2026-05-02 05:00:00,65,Late,Card,266.43,98.38,88,Laguna
+751,1868,Jollibee,Dessert,2026-05-02 06:00:00,31,Cancelled,Card,485.34,89.48,70,Cavite
+752,1456,Jollibee,Chinese,2026-05-02 07:00:00,89,Delivered,GCash,155.28,33.92,61,Laguna
+753,1919,Mang Inasal,Filipino,2026-05-02 08:00:00,36,Late,Cash,301.53,23.7,26,Pasig
+754,1191,Chowking,Fast Food,2026-05-02 09:00:00,38,Late,Card,426.95,66.37,71,Pasig
+755,1738,McDo,Filipino,2026-05-02 10:00:00,45,Delivered,Cash,494.78,93.01,83,Cavite
+756,1688,KFC,Dessert,2026-05-02 11:00:00,67,Late,GCash,979.75,34.19,70,Manila
+757,1098,Jollibee,Filipino,2026-05-02 12:00:00,71,Late,GCash,827.08,20.56,29,Pasig
+758,1547,KFC,Filipino,2026-05-02 13:00:00,89,Cancelled,GCash,763.67,84.44,66,Laguna
+759,1977,KFC,Fast Food,2026-05-02 14:00:00,74,Delivered,Cash,583.34,26.14,19,Laguna
+760,1998,Mang Inasal,Dessert,2026-05-02 15:00:00,52,Delivered,Card,856.0,53.1,68,Laguna
+761,1095,Chowking,Chinese,2026-05-02 16:00:00,81,Delivered,Card,405.39,74.31,58,Laguna
+762,1663,Jollibee,Chinese,2026-05-02 17:00:00,42,Delivered,GCash,738.01,38.94,70,Pasig
+763,1662,KFC,Fast Food,2026-05-02 18:00:00,34,Delivered,Card,994.41,26.72,57,Cavite
+764,1189,Jollibee,Filipino,2026-05-02 19:00:00,46,Late,GCash,383.17,81.6,37,Cavite
+765,1735,McDo,Fast Food,2026-05-02 20:00:00,83,Cancelled,Cash,706.62,70.41,61,Laguna
+766,1036,Mang Inasal,Fast Food,2026-05-02 21:00:00,70,Delivered,GCash,859.88,99.08,92,Cavite
+767,1779,McDo,Fast Food,2026-05-02 22:00:00,72,Cancelled,Cash,924.23,47.54,30,Laguna
+768,1368,Jollibee,Filipino,2026-05-02 23:00:00,70,Cancelled,GCash,746.14,24.94,71,Laguna
+769,1694,Jollibee,Dessert,2026-05-03 00:00:00,66,Late,Card,355.25,78.75,73,Manila
+770,1524,Chowking,Fast Food,2026-05-03 01:00:00,23,Delivered,Card,393.65,61.74,25,Pasig
+771,1278,KFC,Filipino,2026-05-03 02:00:00,26,Late,GCash,118.68,37.06,97,Pasig
+772,1216,KFC,Dessert,2026-05-03 03:00:00,54,Delivered,Card,784.8,82.54,65,Laguna
+773,1866,McDo,Fast Food,2026-05-03 04:00:00,67,Late,Card,138.47,36.3,6,Pasig
+774,1872,Mang Inasal,Chinese,2026-05-03 05:00:00,64,Cancelled,Card,878.19,40.85,18,Cavite
+775,1797,KFC,Dessert,2026-05-03 06:00:00,38,Delivered,Cash,206.79,27.4,10,Laguna
+776,1272,Chowking,Fast Food,2026-05-03 07:00:00,82,Cancelled,Card,254.69,51.95,92,Manila
+777,1880,McDo,Dessert,2026-05-03 08:00:00,57,Cancelled,Cash,528.87,53.51,11,Cavite
+778,1061,McDo,Dessert,2026-05-03 09:00:00,86,Late,GCash,764.09,61.16,97,Manila
+779,1595,Chowking,Dessert,2026-05-03 10:00:00,78,Delivered,Card,225.1,76.72,65,Manila
+780,1879,Mang Inasal,Dessert,2026-05-03 11:00:00,88,Cancelled,Card,496.06,92.49,77,Pasig
+781,1728,Chowking,Dessert,2026-05-03 12:00:00,32,Late,Card,534.57,31.02,84,Pasig
+782,1341,Mang Inasal,Dessert,2026-05-03 13:00:00,66,Delivered,GCash,291.06,24.35,65,Laguna
+783,1396,Chowking,Fast Food,2026-05-03 14:00:00,80,Delivered,Cash,204.0,21.48,52,Pasig
+784,1698,Chowking,Chinese,2026-05-03 15:00:00,50,Cancelled,Cash,852.78,31.49,67,Manila
+785,1018,Jollibee,Filipino,2026-05-03 16:00:00,41,Delivered,Card,552.22,72.64,82,Manila
+786,1176,McDo,Dessert,2026-05-03 17:00:00,62,Cancelled,GCash,112.94,78.2,78,Cavite
+787,1611,Chowking,Filipino,2026-05-03 18:00:00,86,Delivered,GCash,822.68,82.92,31,Manila
+788,1395,Chowking,Fast Food,2026-05-03 19:00:00,73,Late,GCash,982.71,39.5,91,Laguna
+789,1444,KFC,Dessert,2026-05-03 20:00:00,29,Cancelled,GCash,645.33,44.47,17,Laguna
+790,1232,McDo,Chinese,2026-05-03 21:00:00,61,Cancelled,GCash,553.34,58.65,55,Pasig
+791,1914,KFC,Filipino,2026-05-03 22:00:00,83,Delivered,Cash,890.57,25.05,93,Pasig
+792,1075,McDo,Dessert,2026-05-03 23:00:00,40,Delivered,Cash,957.27,68.89,36,Pasig
+793,1264,KFC,Fast Food,2026-05-04 00:00:00,85,Cancelled,Cash,779.08,98.7,26,Laguna
+794,1454,Chowking,Chinese,2026-05-04 01:00:00,60,Delivered,Card,500.91,48.86,53,Manila
+795,1795,Chowking,Filipino,2026-05-04 02:00:00,43,Late,GCash,633.0,80.23,17,Pasig
+796,1717,Jollibee,Filipino,2026-05-04 03:00:00,54,Delivered,Card,730.84,60.0,86,Cavite
+797,1734,KFC,Dessert,2026-05-04 04:00:00,75,Late,GCash,274.85,30.22,25,Pasig
+798,1383,Mang Inasal,Chinese,2026-05-04 05:00:00,49,Late,Cash,502.48,66.58,2,Laguna
+799,1563,Jollibee,Chinese,2026-05-04 06:00:00,76,Late,Card,846.84,43.99,86,Pasig
+800,1850,KFC,Chinese,2026-05-04 07:00:00,66,Late,Cash,689.25,22.75,5,Manila
+801,1505,KFC,Chinese,2026-05-04 08:00:00,54,Late,GCash,470.08,70.79,4,Pasig
+802,1366,Jollibee,Fast Food,2026-05-04 09:00:00,38,Delivered,GCash,697.03,88.71,36,Laguna
+803,1143,Chowking,Chinese,2026-05-04 10:00:00,27,Late,GCash,206.4,47.58,6,Laguna
+804,1884,KFC,Filipino,2026-05-04 11:00:00,45,Delivered,Cash,461.35,51.22,21,Cavite
+805,1068,Chowking,Filipino,2026-05-04 12:00:00,49,Late,GCash,813.82,91.28,77,Laguna
+806,1098,Jollibee,Fast Food,2026-05-04 13:00:00,26,Cancelled,Cash,298.46,85.09,89,Cavite
+807,1395,Chowking,Filipino,2026-05-04 14:00:00,86,Late,Card,267.37,77.2,26,Manila
+808,1024,McDo,Filipino,2026-05-04 15:00:00,84,Cancelled,GCash,955.74,39.9,55,Laguna
+809,1947,Mang Inasal,Chinese,2026-05-04 16:00:00,55,Late,GCash,288.91,92.82,39,Pasig
+810,1890,KFC,Filipino,2026-05-04 17:00:00,44,Late,GCash,334.83,32.35,84,Manila
+811,1468,Mang Inasal,Fast Food,2026-05-04 18:00:00,56,Late,Card,972.65,70.14,33,Pasig
+812,1483,Chowking,Chinese,2026-05-04 19:00:00,20,Cancelled,GCash,761.24,22.3,14,Pasig
+813,1564,KFC,Dessert,2026-05-04 20:00:00,34,Cancelled,Cash,729.64,71.5,56,Pasig
+814,1150,Chowking,Chinese,2026-05-04 21:00:00,56,Late,Cash,867.63,42.17,81,Manila
+815,1143,McDo,Fast Food,2026-05-04 22:00:00,32,Delivered,GCash,204.24,55.97,21,Manila
+816,1568,Jollibee,Chinese,2026-05-04 23:00:00,27,Late,GCash,735.36,47.62,46,Laguna
+817,1038,KFC,Chinese,2026-05-05 00:00:00,24,Cancelled,Card,553.32,33.82,16,Pasig
+818,1108,McDo,Fast Food,2026-05-05 01:00:00,79,Late,Card,846.24,69.76,16,Cavite
+819,1692,McDo,Chinese,2026-05-05 02:00:00,20,Cancelled,Card,557.33,90.56,84,Laguna
+820,1041,KFC,Fast Food,2026-05-05 03:00:00,55,Cancelled,GCash,658.22,96.73,29,Manila
+821,1185,Chowking,Fast Food,2026-05-05 04:00:00,54,Cancelled,Card,529.97,35.39,92,Cavite
+822,1934,McDo,Dessert,2026-05-05 05:00:00,85,Late,Card,530.34,77.39,8,Manila
+823,1397,Mang Inasal,Filipino,2026-05-05 06:00:00,82,Cancelled,Cash,791.17,73.15,88,Cavite
+824,1222,McDo,Filipino,2026-05-05 07:00:00,42,Cancelled,Card,665.71,47.47,3,Laguna
+825,1633,Chowking,Chinese,2026-05-05 08:00:00,28,Late,Cash,669.94,21.53,89,Cavite
+826,1132,Chowking,Chinese,2026-05-05 09:00:00,53,Cancelled,Cash,505.25,75.18,19,Laguna
+827,1162,Mang Inasal,Dessert,2026-05-05 10:00:00,65,Late,Card,578.0,95.64,97,Manila
+828,1214,McDo,Dessert,2026-05-05 11:00:00,23,Cancelled,Cash,771.15,70.57,66,Cavite
+829,1732,Chowking,Dessert,2026-05-05 12:00:00,49,Delivered,GCash,843.35,54.82,79,Pasig
+830,1234,KFC,Fast Food,2026-05-05 13:00:00,22,Delivered,GCash,726.91,62.01,86,Pasig
+831,1842,Jollibee,Dessert,2026-05-05 14:00:00,33,Cancelled,Card,931.67,35.97,74,Manila
+832,1657,Jollibee,Dessert,2026-05-05 15:00:00,79,Delivered,GCash,838.29,80.04,82,Cavite
+833,1750,Jollibee,Chinese,2026-05-05 16:00:00,64,Late,Cash,605.68,79.71,22,Pasig
+834,1587,McDo,Dessert,2026-05-05 17:00:00,53,Delivered,GCash,704.27,31.64,46,Laguna
+835,1008,Mang Inasal,Fast Food,2026-05-05 18:00:00,64,Cancelled,Card,933.68,90.24,91,Cavite
+836,1073,Chowking,Fast Food,2026-05-05 19:00:00,80,Cancelled,Card,657.25,41.54,13,Cavite
+837,1953,KFC,Chinese,2026-05-05 20:00:00,35,Late,Cash,842.33,98.58,33,Pasig
+838,1491,KFC,Dessert,2026-05-05 21:00:00,85,Cancelled,Card,719.93,50.63,5,Laguna
+839,1912,McDo,Dessert,2026-05-05 22:00:00,59,Late,GCash,596.74,34.23,90,Laguna
+840,1252,Jollibee,Fast Food,2026-05-05 23:00:00,36,Delivered,Card,317.65,48.14,77,Laguna
+841,1229,McDo,Dessert,2026-05-06 00:00:00,53,Delivered,Cash,483.4,55.21,27,Cavite
+842,1518,Mang Inasal,Dessert,2026-05-06 01:00:00,35,Late,Card,970.97,25.54,78,Manila
+843,1173,Mang Inasal,Dessert,2026-05-06 02:00:00,79,Late,GCash,691.99,66.26,24,Cavite
+844,1652,Chowking,Filipino,2026-05-06 03:00:00,85,Cancelled,Cash,607.96,67.81,67,Cavite
+845,1167,Chowking,Chinese,2026-05-06 04:00:00,85,Delivered,GCash,939.66,79.11,63,Pasig
+846,1169,Mang Inasal,Filipino,2026-05-06 05:00:00,32,Late,Cash,627.86,22.33,94,Manila
+847,1392,Mang Inasal,Chinese,2026-05-06 06:00:00,75,Delivered,Card,573.47,63.3,99,Laguna
+848,1945,Mang Inasal,Fast Food,2026-05-06 07:00:00,50,Late,Cash,783.38,24.23,48,Pasig
+849,1794,McDo,Dessert,2026-05-06 08:00:00,53,Delivered,Cash,741.4,76.09,63,Cavite
+850,1633,Mang Inasal,Chinese,2026-05-06 09:00:00,58,Cancelled,Card,273.84,24.46,78,Manila
+851,1193,KFC,Filipino,2026-05-06 10:00:00,86,Delivered,GCash,524.18,92.94,12,Laguna
+852,1516,Jollibee,Dessert,2026-05-06 11:00:00,27,Delivered,Card,525.26,76.17,28,Laguna
+853,1028,Mang Inasal,Fast Food,2026-05-06 12:00:00,74,Delivered,Cash,440.4,60.59,44,Cavite
+854,1164,Jollibee,Chinese,2026-05-06 13:00:00,46,Delivered,Card,565.56,55.32,93,Laguna
+855,1421,McDo,Chinese,2026-05-06 14:00:00,72,Delivered,Cash,471.8,30.45,43,Laguna
+856,1338,Jollibee,Chinese,2026-05-06 15:00:00,58,Cancelled,Card,279.41,43.28,17,Manila
+857,1647,McDo,Dessert,2026-05-06 16:00:00,84,Late,Card,471.13,89.52,40,Pasig
+858,1495,KFC,Filipino,2026-05-06 17:00:00,36,Delivered,GCash,165.05,92.36,49,Manila
+859,1364,McDo,Filipino,2026-05-06 18:00:00,49,Cancelled,Cash,618.21,20.06,85,Pasig
+860,1832,McDo,Chinese,2026-05-06 19:00:00,72,Delivered,GCash,868.29,67.53,57,Pasig
+861,1341,Chowking,Fast Food,2026-05-06 20:00:00,32,Delivered,Cash,752.76,77.54,87,Pasig
+862,1499,Mang Inasal,Fast Food,2026-05-06 21:00:00,40,Late,Card,424.35,69.5,84,Laguna
+863,1656,Mang Inasal,Filipino,2026-05-06 22:00:00,38,Delivered,Cash,178.36,26.53,64,Manila
+864,1510,KFC,Fast Food,2026-05-06 23:00:00,72,Cancelled,GCash,281.93,37.42,75,Laguna
+865,1326,KFC,Filipino,2026-05-07 00:00:00,38,Cancelled,GCash,590.94,40.03,57,Cavite
+866,1216,Mang Inasal,Chinese,2026-05-07 01:00:00,76,Late,GCash,286.35,86.54,98,Manila
+867,1300,Chowking,Filipino,2026-05-07 02:00:00,44,Delivered,Cash,589.58,57.06,74,Pasig
+868,1131,Mang Inasal,Filipino,2026-05-07 03:00:00,50,Cancelled,GCash,308.44,58.95,74,Laguna
+869,1803,Chowking,Chinese,2026-05-07 04:00:00,74,Delivered,GCash,864.03,94.79,70,Laguna
+870,1069,KFC,Fast Food,2026-05-07 05:00:00,42,Delivered,GCash,457.54,70.97,88,Manila
+871,1251,Jollibee,Filipino,2026-05-07 06:00:00,51,Delivered,Card,321.0,91.89,76,Manila
+872,1414,KFC,Filipino,2026-05-07 07:00:00,81,Late,Card,831.09,56.52,43,Pasig
+873,1786,KFC,Chinese,2026-05-07 08:00:00,29,Delivered,Cash,408.56,31.95,23,Pasig
+874,1444,McDo,Fast Food,2026-05-07 09:00:00,73,Cancelled,Cash,200.34,94.39,27,Cavite
+875,1875,McDo,Filipino,2026-05-07 10:00:00,71,Delivered,GCash,613.37,56.7,58,Pasig
+876,1181,McDo,Chinese,2026-05-07 11:00:00,39,Cancelled,Card,623.41,34.53,37,Laguna
+877,1166,McDo,Filipino,2026-05-07 12:00:00,51,Delivered,GCash,743.23,44.19,6,Cavite
+878,1090,Chowking,Dessert,2026-05-07 13:00:00,33,Cancelled,GCash,316.2,24.06,65,Cavite
+879,1713,Mang Inasal,Chinese,2026-05-07 14:00:00,69,Cancelled,Card,499.39,57.46,6,Cavite
+880,1857,Jollibee,Fast Food,2026-05-07 15:00:00,47,Delivered,Card,354.13,88.25,50,Manila
+881,1530,KFC,Fast Food,2026-05-07 16:00:00,72,Delivered,Card,172.86,94.69,22,Pasig
+882,1038,Chowking,Fast Food,2026-05-07 17:00:00,43,Cancelled,Cash,888.95,94.61,88,Cavite
+883,1125,Jollibee,Fast Food,2026-05-07 18:00:00,41,Late,Cash,755.98,30.02,25,Manila
+884,1450,Chowking,Filipino,2026-05-07 19:00:00,49,Delivered,GCash,371.32,50.56,79,Manila
+885,1172,Chowking,Filipino,2026-05-07 20:00:00,82,Late,Cash,639.44,22.26,90,Cavite
+886,1652,KFC,Fast Food,2026-05-07 21:00:00,23,Delivered,Card,281.14,88.41,72,Cavite
+887,1753,Mang Inasal,Fast Food,2026-05-07 22:00:00,78,Delivered,Card,901.21,48.7,51,Laguna
+888,1219,McDo,Fast Food,2026-05-07 23:00:00,27,Delivered,Cash,203.42,70.49,88,Cavite
+889,1637,Mang Inasal,Filipino,2026-05-08 00:00:00,31,Delivered,GCash,103.45,77.19,48,Laguna
+890,1057,KFC,Fast Food,2026-05-08 01:00:00,50,Late,GCash,551.81,54.39,70,Cavite
+891,1659,KFC,Fast Food,2026-05-08 02:00:00,53,Delivered,Cash,624.82,44.52,99,Cavite
+892,1475,KFC,Dessert,2026-05-08 03:00:00,68,Cancelled,GCash,621.07,96.98,65,Pasig
+893,1455,Jollibee,Dessert,2026-05-08 04:00:00,76,Cancelled,GCash,149.06,97.16,60,Cavite
+894,1828,Mang Inasal,Fast Food,2026-05-08 05:00:00,45,Late,GCash,382.64,43.15,46,Cavite
+895,1894,Mang Inasal,Chinese,2026-05-08 06:00:00,37,Delivered,Card,549.28,58.37,36,Laguna
+896,1360,Chowking,Fast Food,2026-05-08 07:00:00,57,Cancelled,Card,294.92,97.83,58,Laguna
+897,1934,Chowking,Dessert,2026-05-08 08:00:00,69,Late,Cash,885.36,20.39,76,Pasig
+898,1000,Chowking,Chinese,2026-05-08 09:00:00,27,Delivered,Card,178.4,53.01,38,Cavite
+899,1386,KFC,Chinese,2026-05-08 10:00:00,60,Cancelled,GCash,538.65,28.04,11,Cavite
+900,1972,Mang Inasal,Fast Food,2026-05-08 11:00:00,25,Cancelled,Card,722.27,60.73,12,Laguna
+901,1347,KFC,Dessert,2026-05-08 12:00:00,88,Late,Cash,335.58,21.97,42,Manila
+902,1189,Jollibee,Dessert,2026-05-08 13:00:00,63,Delivered,Card,661.82,52.55,39,Manila
+903,1504,Chowking,Chinese,2026-05-08 14:00:00,83,Delivered,GCash,846.45,37.66,71,Manila
+904,1190,KFC,Fast Food,2026-05-08 15:00:00,48,Cancelled,GCash,271.3,62.66,11,Laguna
+905,1507,KFC,Filipino,2026-05-08 16:00:00,47,Cancelled,Cash,925.5,99.68,36,Laguna
+906,1368,Jollibee,Filipino,2026-05-08 17:00:00,30,Cancelled,Card,598.2,84.04,52,Manila
+907,1408,McDo,Dessert,2026-05-08 18:00:00,84,Delivered,Card,369.31,87.65,31,Manila
+908,1823,Mang Inasal,Filipino,2026-05-08 19:00:00,38,Late,Card,487.77,70.82,33,Cavite
+909,1928,McDo,Dessert,2026-05-08 20:00:00,28,Late,GCash,380.97,23.32,13,Laguna
+910,1933,Chowking,Dessert,2026-05-08 21:00:00,46,Delivered,Cash,752.6,36.54,18,Laguna
+911,1116,KFC,Dessert,2026-05-08 22:00:00,53,Late,Card,816.67,94.01,41,Manila
+912,1133,Jollibee,Filipino,2026-05-08 23:00:00,63,Cancelled,GCash,849.64,49.29,58,Manila
+913,1057,Jollibee,Dessert,2026-05-09 00:00:00,87,Late,GCash,987.19,28.29,56,Pasig
+914,1555,Mang Inasal,Chinese,2026-05-09 01:00:00,34,Late,GCash,812.16,76.19,24,Laguna
+915,1684,McDo,Fast Food,2026-05-09 02:00:00,70,Late,Card,641.25,43.96,73,Pasig
+916,1671,Mang Inasal,Fast Food,2026-05-09 03:00:00,32,Cancelled,Card,405.3,41.51,31,Cavite
+917,1172,KFC,Dessert,2026-05-09 04:00:00,68,Delivered,Card,590.14,99.84,55,Pasig
+918,1828,Mang Inasal,Fast Food,2026-05-09 05:00:00,89,Cancelled,Card,136.96,88.65,10,Manila
+919,1814,Jollibee,Filipino,2026-05-09 06:00:00,75,Delivered,Card,770.34,52.64,60,Laguna
+920,1148,Jollibee,Filipino,2026-05-09 07:00:00,70,Delivered,Card,501.36,98.42,2,Laguna
+921,1079,Chowking,Fast Food,2026-05-09 08:00:00,56,Delivered,Card,118.02,72.01,15,Pasig
+922,1885,Chowking,Filipino,2026-05-09 09:00:00,36,Late,Card,156.26,79.36,3,Pasig
+923,1212,KFC,Fast Food,2026-05-09 10:00:00,77,Late,Card,448.72,22.52,43,Cavite
+924,1202,McDo,Fast Food,2026-05-09 11:00:00,48,Delivered,GCash,625.08,29.73,31,Cavite
+925,1763,Mang Inasal,Fast Food,2026-05-09 12:00:00,52,Delivered,Card,517.78,70.65,70,Manila
+926,1228,KFC,Dessert,2026-05-09 13:00:00,79,Late,Cash,657.28,91.92,67,Manila
+927,1675,Chowking,Fast Food,2026-05-09 14:00:00,74,Cancelled,GCash,532.26,69.9,56,Manila
+928,1226,Mang Inasal,Dessert,2026-05-09 15:00:00,29,Delivered,Card,695.53,30.72,63,Pasig
+929,1658,Chowking,Fast Food,2026-05-09 16:00:00,66,Cancelled,Cash,297.21,29.26,75,Pasig
+930,1531,Mang Inasal,Fast Food,2026-05-09 17:00:00,42,Late,Card,201.56,87.53,15,Laguna
+931,1440,McDo,Fast Food,2026-05-09 18:00:00,40,Delivered,Cash,636.79,31.14,92,Manila
+932,1401,KFC,Filipino,2026-05-09 19:00:00,32,Cancelled,Cash,536.22,61.62,10,Pasig
+933,1046,Mang Inasal,Dessert,2026-05-09 20:00:00,52,Cancelled,Cash,124.18,22.97,38,Laguna
+934,1232,Jollibee,Dessert,2026-05-09 21:00:00,43,Cancelled,Cash,442.43,26.45,47,Manila
+935,1304,Jollibee,Fast Food,2026-05-09 22:00:00,30,Late,GCash,195.51,73.79,57,Cavite
+936,1525,Mang Inasal,Fast Food,2026-05-09 23:00:00,36,Late,GCash,578.22,75.13,50,Cavite
+937,1142,Mang Inasal,Filipino,2026-05-10 00:00:00,87,Cancelled,Cash,456.2,47.32,71,Pasig
+938,1414,Mang Inasal,Filipino,2026-05-10 01:00:00,66,Cancelled,Card,651.84,37.25,15,Laguna
+939,1512,Jollibee,Filipino,2026-05-10 02:00:00,44,Late,Cash,825.04,85.1,18,Cavite
+940,1372,Jollibee,Dessert,2026-05-10 03:00:00,40,Cancelled,GCash,369.7,37.37,82,Laguna
+941,1565,Mang Inasal,Dessert,2026-05-10 04:00:00,31,Cancelled,Card,965.89,63.36,88,Laguna
+942,1885,Chowking,Dessert,2026-05-10 05:00:00,56,Late,GCash,582.07,97.46,2,Cavite
+943,1258,Chowking,Fast Food,2026-05-10 06:00:00,61,Cancelled,GCash,656.46,31.83,84,Laguna
+944,1655,McDo,Dessert,2026-05-10 07:00:00,36,Cancelled,Card,712.61,95.27,98,Cavite
+945,1470,KFC,Chinese,2026-05-10 08:00:00,67,Cancelled,Cash,700.06,34.63,43,Pasig
+946,1952,Chowking,Chinese,2026-05-10 09:00:00,47,Late,Cash,559.87,65.4,26,Manila
+947,1970,Jollibee,Filipino,2026-05-10 10:00:00,60,Cancelled,Cash,485.89,50.16,71,Manila
+948,1011,Chowking,Dessert,2026-05-10 11:00:00,66,Late,Cash,148.4,97.19,38,Pasig
+949,1329,McDo,Chinese,2026-05-10 12:00:00,37,Late,Card,119.88,41.88,94,Cavite
+950,1735,McDo,Filipino,2026-05-10 13:00:00,32,Delivered,Card,422.17,51.97,42,Cavite
+951,1783,KFC,Dessert,2026-05-10 14:00:00,32,Delivered,Card,400.29,98.63,5,Cavite
+952,1967,Chowking,Fast Food,2026-05-10 15:00:00,50,Cancelled,GCash,448.93,62.92,11,Cavite
+953,1357,Jollibee,Chinese,2026-05-10 16:00:00,21,Late,Card,224.53,60.21,65,Pasig
+954,1971,Jollibee,Fast Food,2026-05-10 17:00:00,35,Delivered,Cash,764.35,40.62,34,Manila
+955,1407,Mang Inasal,Dessert,2026-05-10 18:00:00,28,Cancelled,GCash,871.27,76.11,1,Laguna
+956,1667,Jollibee,Chinese,2026-05-10 19:00:00,57,Delivered,Cash,944.84,21.15,83,Laguna
+957,1372,KFC,Dessert,2026-05-10 20:00:00,73,Delivered,Cash,543.13,23.96,2,Manila
+958,1007,KFC,Fast Food,2026-05-10 21:00:00,75,Late,Card,730.78,67.95,85,Pasig
+959,1121,Jollibee,Chinese,2026-05-10 22:00:00,64,Late,Card,870.0,47.33,20,Laguna
+960,1347,Jollibee,Fast Food,2026-05-10 23:00:00,53,Delivered,Cash,476.46,96.27,61,Manila
+961,1675,Mang Inasal,Dessert,2026-05-11 00:00:00,28,Delivered,Cash,378.47,92.26,87,Pasig
+962,1089,Jollibee,Dessert,2026-05-11 01:00:00,27,Late,GCash,943.05,77.1,21,Laguna
+963,1647,Mang Inasal,Fast Food,2026-05-11 02:00:00,26,Cancelled,Card,564.11,85.45,88,Cavite
+964,1697,Mang Inasal,Chinese,2026-05-11 03:00:00,55,Late,GCash,547.53,73.39,68,Cavite
+965,1315,Jollibee,Fast Food,2026-05-11 04:00:00,37,Delivered,GCash,260.57,30.05,12,Pasig
+966,1177,McDo,Dessert,2026-05-11 05:00:00,22,Cancelled,GCash,197.34,81.24,22,Cavite
+967,1539,McDo,Fast Food,2026-05-11 06:00:00,47,Delivered,Cash,857.9,36.82,20,Pasig
+968,1731,Mang Inasal,Dessert,2026-05-11 07:00:00,89,Cancelled,GCash,652.72,45.88,82,Manila
+969,1868,Jollibee,Fast Food,2026-05-11 08:00:00,63,Delivered,GCash,393.24,85.54,1,Manila
+970,1040,McDo,Chinese,2026-05-11 09:00:00,40,Cancelled,Cash,272.56,62.92,30,Laguna
+971,1739,Jollibee,Chinese,2026-05-11 10:00:00,47,Cancelled,Card,599.95,88.8,97,Pasig
+972,1703,Jollibee,Fast Food,2026-05-11 11:00:00,73,Delivered,Card,625.53,37.04,24,Laguna
+973,1922,Jollibee,Fast Food,2026-05-11 12:00:00,73,Cancelled,GCash,286.29,68.62,14,Laguna
+974,1501,Chowking,Chinese,2026-05-11 13:00:00,84,Late,Cash,866.27,26.7,36,Manila
+975,1958,Jollibee,Dessert,2026-05-11 14:00:00,40,Delivered,Card,175.84,71.44,69,Laguna
+976,1144,Chowking,Chinese,2026-05-11 15:00:00,32,Late,GCash,420.48,81.0,75,Cavite
+977,1200,Mang Inasal,Dessert,2026-05-11 16:00:00,76,Delivered,GCash,712.35,66.79,24,Laguna
+978,1928,McDo,Fast Food,2026-05-11 17:00:00,68,Cancelled,Cash,346.71,41.3,60,Pasig
+979,1723,McDo,Fast Food,2026-05-11 18:00:00,73,Cancelled,GCash,844.91,22.51,95,Cavite
+980,1460,McDo,Dessert,2026-05-11 19:00:00,29,Cancelled,Card,765.88,29.56,55,Manila
+981,1731,McDo,Fast Food,2026-05-11 20:00:00,72,Delivered,Cash,810.12,69.78,77,Pasig
+982,1751,McDo,Dessert,2026-05-11 21:00:00,63,Late,Card,207.2,94.75,80,Cavite
+983,1924,McDo,Filipino,2026-05-11 22:00:00,66,Late,Card,226.49,36.52,24,Pasig
+984,1908,McDo,Chinese,2026-05-11 23:00:00,72,Delivered,Card,357.83,78.8,77,Cavite
+985,1557,Mang Inasal,Filipino,2026-05-12 00:00:00,65,Delivered,GCash,566.27,89.32,24,Pasig
+986,1546,Jollibee,Dessert,2026-05-12 01:00:00,32,Late,GCash,773.21,61.67,54,Pasig
+987,1252,KFC,Chinese,2026-05-12 02:00:00,56,Late,Card,852.88,73.54,26,Cavite
+988,1389,Chowking,Dessert,2026-05-12 03:00:00,43,Late,Card,733.9,85.2,66,Manila
+989,1593,KFC,Chinese,2026-05-12 04:00:00,21,Late,Cash,935.74,40.85,80,Manila
+990,1882,KFC,Chinese,2026-05-12 05:00:00,33,Delivered,Cash,764.87,43.75,38,Pasig
+991,1255,Jollibee,Chinese,2026-05-12 06:00:00,29,Delivered,GCash,375.64,20.05,65,Pasig
+992,1708,Jollibee,Chinese,2026-05-12 07:00:00,54,Cancelled,GCash,338.57,97.05,75,Manila
+993,1814,Jollibee,Dessert,2026-05-12 08:00:00,44,Late,Cash,726.57,93.4,51,Manila
+994,1920,McDo,Chinese,2026-05-12 09:00:00,22,Cancelled,Card,273.58,81.17,35,Laguna
+995,1449,Mang Inasal,Chinese,2026-05-12 10:00:00,36,Delivered,GCash,183.44,26.33,43,Manila
+996,1009,McDo,Filipino,2026-05-12 11:00:00,31,Delivered,Card,579.0,55.8,29,Pasig
+997,1823,Mang Inasal,Fast Food,2026-05-12 12:00:00,73,Cancelled,Cash,839.48,28.15,37,Cavite
+998,1797,Mang Inasal,Fast Food,2026-05-12 13:00:00,43,Late,GCash,191.24,21.27,81,Manila
+999,1241,KFC,Filipino,2026-05-12 14:00:00,48,Late,GCash,812.7,69.29,58,Laguna
+1000,1250,KFC,Filipino,2026-05-12 15:00:00,62,Late,Cash,830.41,96.87,54,Laguna
